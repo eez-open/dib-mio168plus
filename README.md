@@ -7,6 +7,8 @@ The contributors are listed in CONTRIB.TXT.
 
 ### Overview
 
+![3D model](Images/MIO168plus_3D.jpg)
+
 The MIO168+ module features multiple digital I/O, analog outputs and expansion connectors for carry various AFEs.
 
 ### Feature list
