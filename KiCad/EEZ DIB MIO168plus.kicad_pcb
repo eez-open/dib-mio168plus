@@ -27661,6 +27661,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27672,6 +27673,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -81432,7 +81434,7 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "/home/denis/BACKUP/EEZ/PCB/KiCad/EEZ DIB MIO168plus/fabrication/step/MIO168plus front mask.step"
+		(model "${KIPRJMOD}/..//fabrication/step/MIO168plus front mask.step"
 			(offset
 				(xyz -11.5 138.1 -145.7)
 			)
@@ -81443,7 +81445,7 @@
 				(xyz -90 90 90)
 			)
 		)
-		(model "/home/denis/BACKUP/EEZ/PCB/KiCad/EEZ DIB MIO168plus/fabrication/step/MIO168plus AFE3.step"
+		(model "${KIPRJMOD}/../fabrication/step/MIO168plus AFE3.step"
 			(offset
 				(xyz -102 169.5 -1.6)
 			)
@@ -81463,6 +81465,18 @@
 			)
 			(rotate
 				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/../fabrication/step/1844675.stp"
+			(opacity 0.8100)
+			(offset
+				(xyz -13 35.5 -1.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -89969,10 +89983,47 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7086,6 mils"
+		(gr_text "180,0 mm"
 			(at 165.5 155.55 0)
 			(layer "Dwgs.User")
 			(uuid "39504486-7b69-4fe5-ba11-2a2277b961eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "3a09ef12-5f1e-4696-acaa-9163ee7bf054")
+		(pts
+			(xy 167 152.45) (xy 167 57.5)
+		)
+		(height 96.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 1)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "95,0 mm"
+			(at 262.35 104.975 90)
+			(layer "Dwgs.User")
+			(uuid "3a09ef12-5f1e-4696-acaa-9163ee7bf054")
 			(effects
 				(font
 					(size 1 1)
@@ -90006,10 +90057,47 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "216,5 mils"
+		(gr_text "5,5 mm"
 			(at 78.85 149.75 90)
 			(layer "Dwgs.User")
 			(uuid "40e07adc-571e-43d3-8b3b-8e9b7029fb60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "a2183dcb-41bd-49ba-b691-edbd74bd71b7")
+		(pts
+			(xy 70 143.5) (xy 261 143.5)
+		)
+		(height 15.7)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 1)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "191,0 mm"
+			(at 165.5 158.05 0)
+			(layer "Dwgs.User")
+			(uuid "a2183dcb-41bd-49ba-b691-edbd74bd71b7")
 			(effects
 				(font
 					(size 1 1)

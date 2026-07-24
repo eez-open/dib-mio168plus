@@ -24,7 +24,7 @@ The MIO168+ module features multiple digital I/O, analog outputs and expansion c
 * Firmware download via SPI or USB
 * Optional SWD for debugging
 * I2C EEPROM for storing board specific parameters
-* Dimensions: TBA, 4-layer PCB
+* Dimensions: 180 x 95 mm, 4-layer PCB
 
 ### Related topics and links
 
