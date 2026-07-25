@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-07-24")
+		(date "2026-07-25")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -6080,7 +6080,7 @@
 		)
 		(uuid "d1c55ffe-bd14-4eb8-862c-8195888da748")
 	)
-	(text "SDRAM"
+	(text "SDRAM (64kbit, 4MBx16)"
 		(exclude_from_sim no)
 		(at 210.82 17.78 0)
 		(effects
@@ -13468,7 +13468,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "W9812G6KH-6"
+		(property "Value" "IS42S16400N-6TL"
 			(at 231.14 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13512,7 +13512,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "W9812G6KH-6-ND"
+		(property "DigiKey" "1450-1260-ND"
 			(at 243.84 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13523,7 +13523,7 @@
 				)
 			)
 		)
-		(property "Mouser" "454-W9812G6KH-6"
+		(property "Mouser" "822-IM6416SDBATG-6I"
 			(at 243.84 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13542,6 +13542,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C62379"
+			(at 243.84 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
 				)
 			)
 		)
@@ -13782,7 +13793,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "118-CHP0603QFW-1R00ELFCT-ND"
 			(at 139.7 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13793,7 +13804,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "279-CRG0603F1R0"
 			(at 139.7 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13804,7 +13815,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-1R-1%"
 			(at 139.7 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13815,7 +13826,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C163871"
 			(at 139.7 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18236,7 +18247,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 83.82 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -18247,7 +18258,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 83.82 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -18258,7 +18269,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 83.82 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -18269,7 +18280,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4328334"
 			(at 83.82 175.26 0)
 			(hide yes)
 			(show_name no)

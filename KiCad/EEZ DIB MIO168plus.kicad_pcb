@@ -475,7 +475,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-13180RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -488,7 +488,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-13180RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -501,7 +501,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-180R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -514,7 +514,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4077604"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -773,6 +773,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e2efc7e-6ac1-4c8c-9d77-57d6cb4f70d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/9de51137-da67-40e9-b6bd-4fd1b611c74f")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -1012,6 +1025,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "571765ec-be5b-437a-bbc1-2cd45901894c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C233225"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c40f3d3f-a9c9-467e-9e1b-b1f88bff9e8f")
 			(effects
 				(font
 					(size 1 1)
@@ -1595,7 +1621,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1608,7 +1634,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1621,12 +1647,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f904ed1-7ca3-411a-bc38-bbb1cde05278")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a59b7b30-b215-4ea4-9ed3-9d77c3a5efaf")
 			(effects
 				(font
 					(size 1 1)
@@ -2659,6 +2698,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C337877"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "869b00ae-df27-4e1c-b27f-d12b393f4cf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/bf314781-ba18-468c-bf18-9e97e69917dd/b9503409-bbd7-4bca-831c-78671cde9934")
 		(sheetname "/Voltage_current DACs/")
@@ -3070,7 +3122,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3083,7 +3135,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3096,12 +3148,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64788c90-ded1-4687-a3c1-a7e1db724737")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09b9020f-3a6a-4ea3-b7b5-a6da20eaac2c")
 			(effects
 				(font
 					(size 1 1)
@@ -3579,7 +3644,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3592,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3605,12 +3670,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e366a90-4cd9-40b0-8778-21f0a57b56ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C4328334"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0da1c27-9d2c-45ac-a991-73e0ed6301f5")
 			(effects
 				(font
 					(size 1 1)
@@ -3959,6 +4037,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "586527c7-baeb-46b0-8d61-5005bd0ad10f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/68130964-c5f3-46b4-be4e-e8fc5d1f716e")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -4188,6 +4279,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b5f3eab-4eb7-4537-a511-52b9672f0bf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2879196"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20c7d2b1-68f7-4ea5-a0ab-7bfbe3794e9b")
 			(effects
 				(font
 					(size 1 1)
@@ -5022,6 +5126,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C38558"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67171cc7-c86e-4e0a-bc57-6a5d249a2fff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/35caadf8-380e-4f9c-969e-cbd8de561abb/1574c16d-5e31-4d95-942d-b735045c9a33")
 		(sheetname "/Voltage DAC, IO expaders, Digital outputs/")
 		(sheetfile "Voltage_DAC_Digital_outputs.kicad_sch")
@@ -5481,6 +5598,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C337877"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1ed3767-5cd3-4a7d-8594-fecb03a5249c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/fe2a8d7d-aef2-45a5-be53-ad871fc3ccd1")
 		(sheetname "/ADIB, PWM, AFE connectors/")
@@ -5928,6 +6058,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66aa802a-7dbb-48d7-af92-8f3cf10f2d5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/ca64b28b-91a4-45db-8ac0-fb53f539d02d")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -6166,6 +6309,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dad89115-23cd-4f08-adbc-d06fcc514956")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/f4a8883a-e4ad-4a89-b8dc-3c933ee77ffa")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -6374,7 +6530,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6387,7 +6543,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6400,12 +6556,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e92adeb-208a-4f10-befc-f38c4601ed3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f82a5ec-d269-4600-b7a0-3b1dabd2be63")
 			(effects
 				(font
 					(size 1 1)
@@ -6659,6 +6828,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad97cf0e-96da-4ea7-b022-c4cc07743cec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/fb735085-4974-46e7-b3cd-8583579733e6")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -6897,6 +7079,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e927a6a-2569-4666-8034-4f7c38059883")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C38558"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0dc722e-9d0d-4896-9f0d-9dd05b01e24b")
 			(effects
 				(font
 					(size 1 1)
@@ -9810,7 +10005,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9823,7 +10018,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9836,12 +10031,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "099a21b4-3db4-4e35-97e4-983ecca097db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "edeab046-10e3-4566-ac3a-02c18741550d")
 			(effects
 				(font
 					(size 1 1)
@@ -10089,6 +10297,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04523fa8-c5fd-4ad6-8b6b-d28cae3eec68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C83942"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39442e27-d4ca-495f-b112-425724d41380")
 			(effects
 				(font
 					(size 1 1)
@@ -10980,7 +11201,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-12738-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10993,7 +11214,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM188R61E225KA2D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11006,7 +11227,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM188R61E225KA12D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11019,7 +11240,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C77047"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11279,6 +11500,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C303960"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b25c9497-9f8a-4b66-bad1-4689a533a72d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/c1c765b5-e998-4e1e-a91b-2afa6938f433")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -11515,6 +11749,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2446247-e275-4ddd-a6fe-6e8c9eebbaf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C127272"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "effbc6cd-56bb-47a8-9bed-c0be3e55064c")
 			(effects
 				(font
 					(size 1 1)
@@ -12460,6 +12707,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "612b84be-a1a7-42e9-bf6d-c3796b6913fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2651670"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bc72ac5-d076-4186-9051-6351a7d141e7")
 			(effects
 				(font
 					(size 1 1)
@@ -14324,7 +14584,7 @@
 				(pins "2" "1")
 			)
 		)
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -15642,6 +15902,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C16338"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccb27aab-6032-4947-be50-b404d28dae35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/9febf844-ffed-4037-803d-f3ca286071e0")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -16713,6 +16986,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "825cbb49-78e2-4c26-a3c7-de2bd8cd91c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/3b8160ba-c04f-4581-a97c-6c1d625e7367")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -17172,7 +17458,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-11153-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17185,7 +17471,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM1885C1H101JA6J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17198,12 +17484,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM1885C1H101JA16J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a71d44b9-25c5-4ccf-8599-b2c8a2e9a471")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3868042"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "045cebd6-85d0-4fd1-b753-ae1ba2cfdef2")
 			(effects
 				(font
 					(size 1 1)
@@ -17681,7 +17980,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "YAG1730CT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17694,7 +17993,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RT0603BRD0775KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17707,12 +18006,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-75K-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "df9358ef-5a1a-41a3-967e-93c32d55c2aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C723587"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbaf8b66-932c-43cc-87c0-69f4995700fc")
 			(effects
 				(font
 					(size 1 1)
@@ -17959,6 +18271,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9fe53cb-7504-45a1-a2c1-b635df8e27a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a80c88f2-2194-494b-ad8a-60d558c5c0a4")
 			(effects
 				(font
 					(size 1 1)
@@ -18625,7 +18950,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18638,7 +18963,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18651,12 +18976,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "68160931-4e56-47a1-82c1-04e712745be6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2902ec48-551c-4c73-9b76-033cfab2d4e0")
 			(effects
 				(font
 					(size 1 1)
@@ -19134,7 +19472,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19147,7 +19485,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19160,12 +19498,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a527b2cd-5a30-4bd4-a122-3ad4174f6d22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfc14cbd-2e23-4eb3-af3b-b036f8f4e5e5")
 			(effects
 				(font
 					(size 1 1)
@@ -19473,7 +19824,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "4217-CBED202-1379B001C1ADCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19499,7 +19850,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "-"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19512,7 +19863,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C5611301"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20302,6 +20653,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "652fd65c-2847-4b65-a598-ae2c80840acf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C337877"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "476bad85-38a7-4dd2-96b9-6de6228e5f90")
 			(effects
 				(font
 					(size 1 1)
@@ -21458,7 +21822,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21471,7 +21835,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21484,12 +21848,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9bcdd148-a981-4392-b1cf-624ea89df428")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2397a47d-a041-46b2-9592-3de093b347e5")
 			(effects
 				(font
 					(size 1 1)
@@ -22003,6 +22380,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ce9c7b5-12a9-45db-96f8-d3cff99038da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/0913232d-093c-4c75-8d9f-ac5e519ff459")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -22175,7 +22565,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "WE-750315371"
+		(property "Value" "750315371"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c9d83783-9dd2-43e3-9241-01efa53a9dc7")
@@ -22240,6 +22630,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "89591ea5-ec1e-44bf-8df1-0b3d27301d7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "-"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc5341e9-d16c-4e41-808e-a63ee6c618c3")
 			(effects
 				(font
 					(size 1 1)
@@ -23078,7 +23481,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-12738-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23091,7 +23494,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM188R61E225KA2D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23104,7 +23507,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM188R61E225KA12D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23117,7 +23520,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C77047"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23338,7 +23741,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23351,7 +23754,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23364,12 +23767,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04d67e05-0b2e-4893-b30e-659ae3fe6df2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eec08541-0306-4cc2-87bf-4131b529ff68")
 			(effects
 				(font
 					(size 1 1)
@@ -23587,7 +24003,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23600,7 +24016,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23613,7 +24029,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23626,7 +24042,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4328334"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25217,12 +25633,25 @@
 				)
 			)
 		)
-		(property "TME" "SN74HC126PW"
+		(property "TME" "SN74HC126PWR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b25dddf-b21d-4f5d-bf34-92145383fd80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C507234"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b49f00e5-71e6-4dd8-aec8-f1d8c720a9d8")
 			(effects
 				(font
 					(size 1 1)
@@ -26491,6 +26920,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d6aad68-f864-404a-8b2a-a414e90850cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/eee22dca-8c7a-4a52-9544-8c426383839b")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -26701,7 +27143,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-13180RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26714,7 +27156,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-13180RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26727,12 +27169,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-180R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5755957a-f044-40e1-96a5-4a4d08441abe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C4077604"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88d0e1ab-d23a-49e9-a9fe-8f1d5285cc3d")
 			(effects
 				(font
 					(size 1 1)
@@ -26978,6 +27433,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "977a2f98-5e41-4070-9dbd-e9bec39a9a32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C38558"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "461a9fe3-7e5d-4c4b-9208-aa3256142af3")
 			(effects
 				(font
 					(size 1 1)
@@ -27408,7 +27876,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27421,7 +27889,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27434,12 +27902,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "774e5976-d139-4e25-84d2-504753272d5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71dfd95c-f536-49e0-892d-1e1d0de4a103")
 			(effects
 				(font
 					(size 1 1)
@@ -27653,33 +28134,15 @@
 				)
 			)
 		)
-		(property "Uvitron" "-"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "69805fde-c1d4-4963-b450-d56e41d31384")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "da63660d-a013-46df-ada0-8f91078deedf")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/35caadf8-380e-4f9c-969e-cbd8de561abb/d824d78c-f434-4c6f-9983-9ded335405fc")
 		(sheetname "/Voltage DAC, IO expaders, Digital outputs/")
 		(sheetfile "Voltage_DAC_Digital_outputs.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "${REFERENCE}"
@@ -27762,7 +28225,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "118-CHP0603QFW-1R00ELFCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27775,7 +28238,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "279-CRG0603F1R0"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27788,7 +28251,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-1R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27801,7 +28264,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C163871"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28024,7 +28487,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "YAG1730CT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28037,7 +28500,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RT0603BRD0775KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28050,12 +28513,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-75K-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "532ce53b-21c6-44d3-9927-813dd46843b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C723587"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b69fabcb-45ec-401f-9295-b155aebb6455")
 			(effects
 				(font
 					(size 1 1)
@@ -29616,7 +30092,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "296-1282-1-ND"
+		(property "DigiKey" "296-48159-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29629,7 +30105,7 @@
 				)
 			)
 		)
-		(property "Mouser" "595-TL072CDR"
+		(property "Mouser" "595-OPA2196IDR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29642,12 +30118,25 @@
 				)
 			)
 		)
-		(property "TME" "TL072CD-ST"
+		(property "TME" "OPA2196IDR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ed5911e-6b06-443c-b92f-015cf28c3903")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2057972"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "930b21ad-3fb2-4ad3-97b4-fc88f73e45a5")
 			(effects
 				(font
 					(size 1 1)
@@ -30528,6 +31017,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef0c75d5-e0d5-410f-9f1c-c5e856c1e6d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C551419"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a80a6640-39d6-484a-93d2-f8f1b3871e3f")
 			(effects
 				(font
 					(size 1 1)
@@ -32080,6 +32582,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C83942"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d49e4529-6da5-4e4e-bc5c-918e6c31aa9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/34888ed4-f50f-42ee-854a-b5babcc12a84")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -33303,7 +33818,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "5b6e0125-46bf-4e4f-84ae-b3bbdacaa334")
@@ -33377,7 +33892,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33754,7 +34269,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33767,7 +34282,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33780,12 +34295,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22b9b420-ba67-4ea4-acee-8667cc67921c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C4328334"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47618d43-8a81-4f51-a149-da64344e95bf")
 			(effects
 				(font
 					(size 1 1)
@@ -35869,7 +36397,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-11153-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35882,7 +36410,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM1885C1H101JA6J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35895,12 +36423,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM1885C1H101JA16J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ad9f657b-58aa-45e0-88da-48a82751823d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3868042"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1633d194-4cda-46ea-8d8c-8916904bf1df")
 			(effects
 				(font
 					(size 1 1)
@@ -36118,7 +36659,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36131,7 +36672,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36144,12 +36685,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "98ce1e8e-aaa5-42bd-afe1-48517f729244")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C185301"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d303bf45-fd83-44f9-ae57-ce4598231e1e")
 			(effects
 				(font
 					(size 1 1)
@@ -36396,6 +36950,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec9daa8e-7404-4bf3-80d3-9f07e7d19aa0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C337877"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4382963-bc65-4493-88db-9890530cb2f6")
 			(effects
 				(font
 					(size 1 1)
@@ -37119,7 +37686,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37132,7 +37699,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37145,12 +37712,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca6d2452-5e82-4edb-9129-3a9887a0a530")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d25e9854-8214-44e6-a1b4-b90c226109f0")
 			(effects
 				(font
 					(size 1 1)
@@ -37404,6 +37984,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21ac7356-3a5a-4cfb-a543-bc4191c9a8e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/c17473c2-c52b-456e-82fc-221d32a6f5a6")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -37614,7 +38207,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-7W470RLCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37627,7 +38220,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-7W470RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37640,7 +38233,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-470R-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37653,7 +38246,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C20142029"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38896,7 +39489,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38909,7 +39502,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38922,12 +39515,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d1931996-6234-4ad0-b420-15471f0d7a8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C185301"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "849c1bce-5073-4a9c-8c0f-a5919c0b1414")
 			(effects
 				(font
 					(size 1 1)
@@ -39172,6 +39778,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0049646a-2624-4135-a6d9-9fffbd5122bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C236079"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e2d0e0d-2503-40c4-9b94-4cd6534e1c9f")
 			(effects
 				(font
 					(size 1 1)
@@ -40198,6 +40817,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C21488"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a13df347-e786-4ff7-b2b1-fcec42cffed3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/50801605-b728-44bd-804c-48bd43437cb3")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -40489,6 +41121,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C337877"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a6d021c-e040-4651-9b19-777deda76998")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/49529a10-7659-44a8-9d1e-27c9586b0203/6b054b03-bcee-4dcf-aa17-f5301cd16704")
 		(sheetname "/MCU, SDRAM/")
@@ -40604,7 +41249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W9812G6KH-6"
+		(property "Value" "IS42S16400N-6TL"
 			(at -3.4925 0.635 90)
 			(layer "F.Fab")
 			(uuid "22ea723a-0a31-4b04-ad30-31a4a6575480")
@@ -40638,7 +41283,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "W9812G6KH-6-ND"
+		(property "DigiKey" "1450-1260-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40651,7 +41296,7 @@
 				)
 			)
 		)
-		(property "Mouser" "454-W9812G6KH-6"
+		(property "Mouser" "822-IM6416SDBATG-6I"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40670,6 +41315,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19dc1fd1-51c8-4f0c-ab94-585415dcffaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C62379"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d49c7c7d-1dee-4cfc-b90f-b72181f66de0")
 			(effects
 				(font
 					(size 1 1)
@@ -42813,6 +43471,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C74561"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d98dc78-cdf4-4d6f-b73f-e5c2b8376113")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/ea1ede8c-c186-44cc-ac8b-e3ba829ad56a")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -43888,7 +44559,7 @@
 				(pins "2" "1")
 			)
 		)
-		(attr smd dnp)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -44089,7 +44760,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-134K7LTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44102,7 +44773,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-134K7L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44115,7 +44786,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-4K7-1% "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44128,7 +44799,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23162"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44907,6 +45578,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C959626"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3f861ea-cd3b-492a-b1b5-e7b520c80c24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0e3b5e5d-a7aa-4e7a-a6d1-6c924c56a609")
 		(sheetname "/")
 		(sheetfile "EEZ DIB MIO168plus.kicad_sch")
@@ -45375,6 +46059,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f489df20-669e-466c-82c6-0170f58c6503")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C551419"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbdd4edd-2c98-42d9-8ab5-bf345f275166")
 			(effects
 				(font
 					(size 1 1)
@@ -47173,6 +47870,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C148319"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34547fa4-e9ac-4911-b2fb-f0a794580c41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/a7c143ca-cce3-421f-b3d0-d4b701dc9ef3")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -48842,6 +49552,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C74561"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "def9fdba-0f5c-48a7-8cee-8e35b1ce6f1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/c1cd33ed-4e14-4c22-9df6-1ef8be9c71bb")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -49437,7 +50160,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49450,7 +50173,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49463,7 +50186,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49476,7 +50199,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C185301"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50479,7 +51202,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131K8LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50492,7 +51215,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131K8L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50505,7 +51228,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-1K8-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50518,7 +51241,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4177"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50770,6 +51493,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "990e38c4-afe7-48de-95a3-4274adfcf228")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C337877"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9180c9e-923d-44c0-8e28-75bc6e387592")
 			(effects
 				(font
 					(size 1 1)
@@ -51228,7 +51964,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2150432"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51716,6 +52452,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "12ab75ac-9277-4c6b-95e0-512a49b5de2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21235"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a2903d1-3c56-4a98-bf27-3f95398d663d")
 			(effects
 				(font
 					(size 1 1)
@@ -52661,6 +53410,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a1e523a-d318-4acf-9326-ee3bdf88a6a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4765cbea-4bbc-46bd-b013-5ea4157eab9e")
 			(effects
 				(font
 					(size 1 1)
@@ -54220,7 +54982,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54233,7 +54995,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54246,12 +55008,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "70b43a64-6a38-401a-8994-4ea82f7875ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C4328334"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ef87921-9965-43c4-9ff8-7c8ba9085227")
 			(effects
 				(font
 					(size 1 1)
@@ -54469,7 +55244,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-100KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54482,7 +55257,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-07100KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54495,12 +55270,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-100K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3a0eaee7-b69d-42d4-b203-027a3eefb511")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C25803"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f3004e5-91df-423a-867e-2a9dfa4a4b49")
 			(effects
 				(font
 					(size 1 1)
@@ -55005,6 +55793,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "633bca98-56b3-400f-bb5d-6626da0c98b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C551419"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e833b99-cdf3-4073-9dcd-77150c852c22")
 			(effects
 				(font
 					(size 1 1)
@@ -55710,7 +56511,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55723,7 +56524,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55736,12 +56537,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84b617bc-942a-4133-a9f7-b9ff6a720061")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C185301"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08ea31c5-5004-4d4d-87d2-1a4c55950136")
 			(effects
 				(font
 					(size 1 1)
@@ -56481,7 +57295,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56494,7 +57308,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56507,12 +57321,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd11e6da-c5b6-40e0-8890-a52d47990172")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C144698"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba2f2a9d-3a59-4267-abd0-d8e4ac875b73")
 			(effects
 				(font
 					(size 1 1)
@@ -56757,6 +57584,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a550c0cc-f2e3-411d-ac87-76f1e2865a01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2651670"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c61ea58-2250-4359-8790-6a51c6477041")
 			(effects
 				(font
 					(size 1 1)
@@ -58300,7 +59140,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58313,7 +59153,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -58326,12 +59166,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1fa1fadd-2e80-4c57-b6e1-67af1076a069")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e2c649f-25e4-4653-9344-f469676b5e8d")
 			(effects
 				(font
 					(size 1 1)
@@ -58576,6 +59429,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "270b362d-edd9-4736-8492-1d5072fb563f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3324237"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27666b6d-b9fd-42ce-ae6e-ded5df12d2d7")
 			(effects
 				(font
 					(size 1 1)
@@ -59135,7 +60001,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-11153-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59148,7 +60014,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM1885C1H101JA6J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59161,12 +60027,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM1885C1H101JA16J"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d136a52e-7da5-45d6-9c1b-001dd6b95dd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3868042"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8628daf-cc54-4a2d-a3d8-f59517a4484b")
 			(effects
 				(font
 					(size 1 1)
@@ -59384,7 +60263,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "YAG1730CT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59397,7 +60276,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RT0603BRD0775KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59410,7 +60289,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-75K-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59423,7 +60302,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C723587"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59940,6 +60819,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1a870b1-cfb8-4e01-b653-3fb48e39671b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/f4ef850a-f47f-4075-8392-ea9e57408a3f")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -60140,7 +61032,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-12738-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60153,7 +61045,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GRM188R61E225KA2D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60166,12 +61058,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GRM188R61E225KA12D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ef093fe-e3d1-4c52-a165-6c984ac3605e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C77047"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f73608d-e045-4b6c-ad8c-8d91fade4889")
 			(effects
 				(font
 					(size 1 1)
@@ -60683,6 +61588,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c344d9b-ecd5-4d0e-80c8-141ceb67fc4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/e07e8400-b498-46bc-8383-29b16e80905a")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -60912,6 +61830,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73b4cb0f-6139-4527-9b6e-28d9d19c4138")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb02d9ae-1a84-4694-90b4-1f94168fc577")
 			(effects
 				(font
 					(size 1 1)
@@ -61676,7 +62607,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61689,7 +62620,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61702,7 +62633,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61715,7 +62646,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C21190"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62473,7 +63404,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62486,7 +63417,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62499,12 +63430,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "00f468c7-c5f7-4328-8361-3f9826ffe21d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C144698"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9cb27266-94b7-408a-bf94-197be5a441cc")
 			(effects
 				(font
 					(size 1 1)
@@ -62750,6 +63694,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f5f7b3c-9c05-440d-9904-95d20e1a42df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2651160"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "702390d4-5027-4b9e-b806-2b2059274403")
 			(effects
 				(font
 					(size 1 1)
@@ -64264,7 +65221,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-100KHRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64277,7 +65234,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-07100KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64290,12 +65247,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-100K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "238f07bd-f814-433a-a36b-d97a8c128d5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C25803"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a6a9363-92a1-438b-ae28-6950f164774c")
 			(effects
 				(font
 					(size 1 1)
@@ -64547,6 +65517,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fffbb531-9c1e-45ef-9471-d5a10fd894cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/3639af71-e690-41dd-80a8-61240d21ab44")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -64749,7 +65732,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64762,7 +65745,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64775,12 +65758,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f80d2512-1878-40d7-be22-941aac4c3499")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1115baa2-221b-4a38-a724-b4993789368a")
 			(effects
 				(font
 					(size 1 1)
@@ -65287,6 +66283,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "38447a59-f087-4c54-af69-7cc712044b42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2156022"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fabf4f00-80cc-4e10-837e-3b90402520be")
 			(effects
 				(font
 					(size 1 1)
@@ -66142,7 +67151,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66155,7 +67164,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66168,12 +67177,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "180c3f43-dcd3-41c7-8a67-599a35b70fb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b93d72ca-2ab5-433c-846a-a420d58f43f6")
 			(effects
 				(font
 					(size 1 1)
@@ -66391,7 +67413,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-7W470RLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66404,7 +67426,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-7W470RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66417,12 +67439,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-470R-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e9c6b98-1b6b-4c34-9636-85f4d719ebd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C20142029"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1df626d8-beff-4f69-a322-c453fbce08a3")
 			(effects
 				(font
 					(size 1 1)
@@ -69639,6 +70674,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ed86ca5-2986-411b-af32-c01ad720d41b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/818678c0-be56-4da5-9dfe-a34552593376")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -70373,7 +71421,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70386,7 +71434,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70399,12 +71447,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61de395f-1a3c-4220-bcb7-d040edfbc7e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "071585fd-7289-4b10-b176-34bc97768521")
 			(effects
 				(font
 					(size 1 1)
@@ -70622,7 +71683,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RT0805FRE07470KLDKR-ND"
+		(property "DigiKey" "A126370CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70635,7 +71696,7 @@
 				)
 			)
 		)
-		(property "Mouser" "652-CMP0805-FX-4703L"
+		(property "Mouser" "71-CRCW0805470KFKEA"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70648,12 +71709,25 @@
 				)
 			)
 		)
-		(property "TME" "0805S8F4703T5E"
+		(property "TME" "0805S8J0474T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "765d7797-fa38-4601-a1be-4932624fabcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17709"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "199d720f-c8af-43ef-9f98-553960839639")
 			(effects
 				(font
 					(size 1 1)
@@ -71131,7 +72205,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71144,7 +72218,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71157,12 +72231,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "334aabb1-a9eb-4d6e-9689-443d85803c68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C185301"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ab7287d-720a-4ef5-90cd-e363e176bbf4")
 			(effects
 				(font
 					(size 1 1)
@@ -71380,7 +72467,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-10100RLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71393,7 +72480,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-10100RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71406,12 +72493,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0603FR-10100RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "21923097-c492-4e5c-a40a-9818de2a6078")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C22775"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2bfb129-dca9-4159-8431-f39253607de4")
 			(effects
 				(font
 					(size 1 1)
@@ -71627,7 +72727,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "VJ0603A100JXACW1BC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71640,7 +72740,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1069-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71653,7 +72753,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10C100CB8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71666,7 +72766,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1634"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71887,7 +72987,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-4933-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71900,7 +73000,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM188R71H223KA7J"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71913,12 +73013,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM188R71H223KA37D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7ccb669-b4df-49a5-9d60-4fde022d9acc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C161226"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9872d84f-4ed7-4064-baf9-7ab8c94e1c30")
 			(effects
 				(font
 					(size 1 1)
@@ -72136,7 +73249,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72149,7 +73262,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72162,12 +73275,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e2b3b4b-9a79-45fe-b0c3-b3fd591144a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C144698"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b88d0ab6-78c8-4ce5-b4a9-64ba7fd00fc3")
 			(effects
 				(font
 					(size 1 1)
@@ -72692,6 +73818,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C3324237"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb094dff-bee5-4046-9f5b-eca19d872f66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/95994610-444d-4e85-a926-3829512eeb5a")
 		(sheetname "/ADIB, PWM, AFE connectors/")
@@ -72984,7 +74123,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-4931-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72997,7 +74136,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM188R71H222K37D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73010,7 +74149,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM188R71H222KA37D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73023,9 +74162,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C161225"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "662cbb4b-693c-4b8a-bc5b-0d86718f2bac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/bf314781-ba18-468c-bf18-9e97e69917dd/777575f0-34ad-40bc-9ac2-6f964966fe83")
 		(sheetname "/Voltage_current DACs/")
 		(sheetfile "Voltage_current_DACs.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -73484,7 +74642,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "296-TPS7A2033PDBVRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73497,7 +74655,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-TPS7A2033PDBVR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73510,7 +74668,7 @@
 				)
 			)
 		)
-		(property "TME" "-"
+		(property "TME" "TPS7A2033PDBVR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73523,7 +74681,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2862740"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74280,6 +75438,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "525a436d-45dc-4d6f-ad14-fee8cebbd170")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C42134"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c4e908e-8d09-4515-b55f-d250288b92a5")
 			(effects
 				(font
 					(size 1 1)
@@ -75144,7 +76315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "081a35ea-ee6d-4241-a156-94af1d54a0b8")
@@ -75218,7 +76389,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75855,7 +77026,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "YAG1730CT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75868,7 +77039,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RT0603BRD0775KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75881,12 +77052,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-75K-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7387e6b5-a893-448b-bf0f-29abd6bc1b1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C723587"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "761e9e3e-817f-43ee-91a7-7879783c45cf")
 			(effects
 				(font
 					(size 1 1)
@@ -76131,6 +77315,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63bc1af6-52df-4554-bf95-afc335d0da22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C551419"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb6ffe4a-d4d0-436d-b5dc-05d75aeb95d5")
 			(effects
 				(font
 					(size 1 1)
@@ -76576,7 +77773,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76589,7 +77786,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76602,7 +77799,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76615,7 +77812,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C21190"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76864,6 +78061,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1d456f82-49c8-4f10-90f0-1a050ab499a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C127272"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "883334f3-ac56-49df-b8b7-1ae6a5d6ab28")
 			(effects
 				(font
 					(size 1 1)
@@ -77262,7 +78472,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-10100RLCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77275,7 +78485,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-10100RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77288,7 +78498,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0603FR-10100RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77301,7 +78511,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C22775"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77521,7 +78731,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "296-1282-1-ND"
+		(property "DigiKey" "296-48159-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77534,7 +78744,7 @@
 				)
 			)
 		)
-		(property "Mouser" "595-TL072CDR"
+		(property "Mouser" "595-OPA2196IDR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77547,12 +78757,25 @@
 				)
 			)
 		)
-		(property "TME" "TL072CD-ST"
+		(property "TME" "OPA2196IDR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "77878505-705e-4444-9e2c-8e2b48dba433")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2057972"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "902ea9a7-6345-4a5a-abc1-8cb18e33d26d")
 			(effects
 				(font
 					(size 1 1)
@@ -79280,6 +80503,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5508720-5d3b-48eb-a1f8-abcbc3c582a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/426d064b-3f89-44ca-b431-daa69e217764")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -79787,6 +81023,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C205261"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d91d606-394d-4a4a-9d6c-e54efff4432a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/885c1435-d8fa-400a-9a87-995821884ac7")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -80257,7 +81506,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -80270,7 +81519,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -80283,12 +81532,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "704aa5eb-8aa8-4cbc-aff3-98815c81c9fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d349992a-deee-455e-a1b0-6a52d95da616")
 			(effects
 				(font
 					(size 1 1)
@@ -80764,7 +82026,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-4933-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -80777,7 +82039,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM188R71H223KA7J"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -80790,12 +82052,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM188R71H223KA37D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6f1ffe3-9c37-4164-817d-6e9b24ea0f5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C161226"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dec163b-b7ea-4ef0-a292-64391c24238a")
 			(effects
 				(font
 					(size 1 1)
@@ -81322,6 +82597,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C959626"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80f0c31c-f92e-4b26-97ee-2b1f5d12ef48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9cf1aaa4-7a43-4e5c-b1b4-fe2a05bf6446")
 		(sheetname "/")
 		(sheetfile "EEZ DIB MIO168plus.kicad_sch")
@@ -81795,7 +83083,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-10100RLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81808,7 +83096,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-10100RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81821,12 +83109,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "RC0603FR-10100RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6860e41-863b-4372-9eec-d36e883622fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C22775"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93c31ea6-c8cd-4d3c-83fa-89375365b05d")
 			(effects
 				(font
 					(size 1 1)
@@ -82044,7 +83345,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-1347RLCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82057,7 +83358,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-1347RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82070,7 +83371,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-47R-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82083,7 +83384,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C4328334"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82860,6 +84161,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C551419"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0482abe-42d5-41e1-ad15-6b25f656aa72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/368ece09-c01f-4640-8875-5d1b7a4ef503/734ba8d4-2cf7-493b-ae57-8b9fcb0da560")
 		(sheetname "/Digital inputs/")
 		(sheetfile "Digital_inputs.kicad_sch")
@@ -83298,7 +84612,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RT0805FRE07470KLDKR-ND"
+		(property "DigiKey" "A126370CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83311,7 +84625,7 @@
 				)
 			)
 		)
-		(property "Mouser" "652-CMP0805-FX-4703L"
+		(property "Mouser" "71-CRCW0805470KFKEA"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83324,12 +84638,25 @@
 				)
 			)
 		)
-		(property "TME" "0805S8F4703T5E"
+		(property "TME" "0805S8J0474T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ced8b75-f02e-47e7-bf57-6a706d3ebc50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17709"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc63cb14-67b6-416b-98d2-3557d9dfa888")
 			(effects
 				(font
 					(size 1 1)
@@ -83575,6 +84902,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b36d914-b3df-47cf-8538-a3c5bffe0301")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C38558"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad383272-1cd3-4e7b-ba85-4aefab3df894")
 			(effects
 				(font
 					(size 1 1)
@@ -84005,7 +85345,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -84018,7 +85358,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -84031,7 +85371,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -84044,7 +85384,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C144698"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85047,7 +86387,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85060,7 +86400,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85073,7 +86413,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85086,7 +86426,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C144698"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85875,6 +87215,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C236079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fede362-ca34-434e-9684-c40dd23990d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/122f1af0-0d64-42de-8333-0d2e278f2951/53da54c8-98fc-4543-bba4-2c166fd14606")
 		(sheetname "/ADIB, PWM, AFE connectors/")
 		(sheetfile "ADIB_PWM.kicad_sch")
@@ -86337,7 +87690,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -86350,7 +87703,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603BR-079K09L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -86363,12 +87716,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "AR0603-9K09-0.1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7671928-f2fd-4355-a744-c2313acdb276")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C185301"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "325f9e1f-3558-46f7-a75d-63ca5b4265ef")
 			(effects
 				(font
 					(size 1 1)
@@ -86586,7 +87952,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-7W470RLCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -86599,7 +87965,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-7W470RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -86612,12 +87978,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-470R-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "01436743-208c-407a-93b1-2c0cab14424b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C20142029"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "480b3884-f72f-4dfe-9fdc-5f322180b706")
 			(effects
 				(font
 					(size 1 1)
@@ -87095,7 +88474,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87108,7 +88487,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87121,12 +88500,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "626a8544-03c3-44a1-9530-c617898a20a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C144698"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a3fc8ff-c7af-4636-a868-f8784f8f8e1b")
 			(effects
 				(font
 					(size 1 1)
@@ -87429,7 +88821,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "490-4931-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87442,7 +88834,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-GCM188R71H222K37D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87455,12 +88847,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "GCM188R71H222KA37D"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "28e1bab9-f35e-4cb8-948b-12feff8fb0cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C161225"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f177845f-3b88-49c7-9341-cc96c34914db")
 			(effects
 				(font
 					(size 1 1)
@@ -87676,7 +89081,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "VJ0603A100JXACW1BC"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87689,7 +89094,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1069-1-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87702,7 +89107,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10C100CB8NNNC"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87715,7 +89120,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C1634"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87938,7 +89343,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-RC0603FR-131KLCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87951,7 +89356,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-131KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87964,12 +89369,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-1K-1%"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "92cb77a3-b065-49e7-b600-16d8ab45a7c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3188a72e-7875-459e-a34b-1e1b2596eaf9")
 			(effects
 				(font
 					(size 1 1)
@@ -88462,7 +89880,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -88475,7 +89893,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -88488,12 +89906,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1e717cc9-3dc0-4beb-817b-059fb26ed330")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c9a74cb-2b56-43bc-a178-4d1e964f8608")
 			(effects
 				(font
 					(size 1 1)
@@ -88971,7 +90402,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-27.0KHRCT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -88984,7 +90415,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-RC0603FR-0727KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -88997,12 +90428,25 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-27K-1%"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4e270a4c-aa4e-4fcb-888e-7a599e07b079")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C114614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7edff9c7-7d9a-4de2-b3b1-87c3031edbac")
 			(effects
 				(font
 					(size 1 1)
@@ -89983,7 +91427,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "180,0 mm"
+		(gr_text "7086,6 mils"
 			(at 165.5 155.55 0)
 			(layer "Dwgs.User")
 			(uuid "39504486-7b69-4fe5-ba11-2a2277b961eb")
@@ -90020,7 +91464,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "95,0 mm"
+		(gr_text "3738,2 mils"
 			(at 262.35 104.975 90)
 			(layer "Dwgs.User")
 			(uuid "3a09ef12-5f1e-4696-acaa-9163ee7bf054")
@@ -90057,7 +91501,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "5,5 mm"
+		(gr_text "216,5 mils"
 			(at 78.85 149.75 90)
 			(layer "Dwgs.User")
 			(uuid "40e07adc-571e-43d3-8b3b-8e9b7029fb60")
@@ -90094,7 +91538,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "191,0 mm"
+		(gr_text "7519,7 mils"
 			(at 165.5 158.05 0)
 			(layer "Dwgs.User")
 			(uuid "a2183dcb-41bd-49ba-b691-edbd74bd71b7")

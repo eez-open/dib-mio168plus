@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-07-24")
+		(date "2026-07-25")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -12468,7 +12468,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 254 50.8 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -12545,7 +12545,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13572,7 +13572,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 78.74 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13583,7 +13583,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 78.74 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13594,7 +13594,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 78.74 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13605,7 +13605,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C144698"
 			(at 78.74 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -13653,7 +13653,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 35.56 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13731,7 +13731,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 35.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -13842,7 +13842,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-7W470RLCT-ND"
 			(at 127 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13853,7 +13853,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-7W470RL"
 			(at 127 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13864,7 +13864,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "SMD0603-470R-1%"
 			(at 127 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13872,6 +13872,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C20142029"
+			(at 127 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
 				)
 			)
 		)
@@ -15708,7 +15719,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 35.56 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15786,7 +15797,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 35.56 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -16532,7 +16543,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "13-AC0603FR-0715RLCT-ND"
 			(at 78.74 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16543,7 +16554,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-AC0603FR-0715RL"
 			(at 78.74 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16554,7 +16565,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CQ0603-15R-1%"
 			(at 78.74 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -16565,7 +16576,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C144698"
 			(at 78.74 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -17625,7 +17636,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 254 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -17703,7 +17714,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 254 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -18471,7 +18482,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 35.56 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18549,7 +18560,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 35.56 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -18819,7 +18830,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -18897,7 +18908,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 254 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -19041,7 +19052,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 35.56 92.71 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -19118,7 +19129,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 35.56 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -20344,7 +20355,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CAY16A-XXX"
+		(property "Value" "CAY16-330J4LF"
 			(at 254 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -20422,7 +20433,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C840641"
 			(at 254 40.64 0)
 			(hide yes)
 			(show_name no)

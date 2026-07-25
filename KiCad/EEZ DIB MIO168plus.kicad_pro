@@ -1651,7 +1651,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "../../fabrication/bom/Mainboard/BB3plus mainboard.csv",
+    "bom_export_filename": "../fabrication/bom/EEZ DIB MIO168plus.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -1666,6 +1666,12 @@
     "bom_settings": {
       "exclude_dnp": false,
       "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": true
+        },
         {
           "group_by": false,
           "label": "Reference",
@@ -1700,12 +1706,6 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
           "show": false
         },
         {
@@ -1756,7 +1756,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${ITEM_NUMBER}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -1807,7 +1807,7 @@
         "uuid": "8165d74e-be16-4c9d-8240-91910dc4b43e"
       }
     ],
-    "used_designators": "#\\-5V_ISO1-3,#GND1-88,X1-5,X19,#+15V_ISO1-11,#+5V1-3,#+5V7,LOGO1-5,#+3V3_ISO1-19,#+12V_ISO1-12,#FLG1-19,IC1-23,#\\-15V_ISO1-11,SH1,ZD1-3,D1-23,D27,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,TP1-11,FB1-7,L1,R1-72,TVS1-4,#GND_ISO1-59,#\\-12V_ISO1-12,#+3V1-13,#+3V15,#+3V45-46,C1-113,#PE1-2,#PE9-10,TR1,FM1-4,KK1-2,#+5V_ISO1-3,Y1,Q1-11,JP1-3,RN1-3",
+    "used_designators": "#GND_ISO1-59,TVS1-4,R1-72,L1,#+5V1-3,#+5V7,#+3V3_ISO1-19,#+12V_ISO1-12,LOGO1-5,#FLG1-19,IC1-23,#\\-15V_ISO1-11,SH1,ZD1-3,#\\-12V_ISO1-12,#+3V1-13,#+3V15,#+3V45-46,C1-113,#PE1-2,#PE9-10,TR1,FM1-4,KK1-2,#+5V_ISO1-3,Y1,Q1-11,JP1-3,RN1-3,#+15V_ISO1-11,X1-5,X19,#GND1-88,#\\-5V_ISO1-3,D1-23,D27,TP1-11,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,FB1-7",
     "variants": []
   },
   "sheets": [
