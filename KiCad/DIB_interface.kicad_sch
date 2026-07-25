@@ -13373,7 +13373,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "4217-CBED202-1379B001C1ADCT-ND"
 			(at 111.76 63.5 0)
 			(hide yes)
 			(show_name yes)
@@ -13395,7 +13395,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "-"
 			(at 111.76 68.58 0)
 			(hide yes)
 			(show_name yes)
@@ -13406,7 +13406,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C5611301"
 			(at 111.76 71.12 0)
 			(hide yes)
 			(show_name yes)

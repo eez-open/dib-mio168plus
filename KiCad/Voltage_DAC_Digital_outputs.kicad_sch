@@ -13372,7 +13372,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 220.98 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13383,7 +13383,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 220.98 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13394,7 +13394,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 220.98 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13883,7 +13883,7 @@
 				)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1276-1018-2-ND"
 			(at 220.98 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -13894,7 +13894,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B102KB8NNNC "
 			(at 220.98 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -13905,7 +13905,7 @@
 				)
 			)
 		)
-		(property "TME" ""
+		(property "TME" "CL10B102KB8NNNC"
 			(at 220.98 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -14027,6 +14027,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C337877"
+			(at 109.22 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
 				)
 			)
 		)
