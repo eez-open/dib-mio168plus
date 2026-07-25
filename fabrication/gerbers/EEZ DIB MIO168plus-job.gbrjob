@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5-10.0.5~ubuntu24.04.1"
     },
-    "CreationDate": "2026-07-25T08:04:14+02:00"
+    "CreationDate": "2026-07-25T12:02:58+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -95,6 +95,11 @@
     {
       "Path": "EEZ DIB MIO168plus-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EEZ DIB MIO168plus-v-cut.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],
