@@ -12180,7 +12180,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LF XTAL026392"
+		(property "Value" "ABM8-16.000MHZ-10-D7G-T"
 			(at 186.055 78.105 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12224,10 +12224,10 @@
 				)
 			)
 		)
-		(property "DigiKey" "1923-1009-ND"
+		(property "DigiKey" "535-14383-1-ND"
 			(at 175.26 76.2 0)
 			(hide yes)
-			(show_name yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -12235,10 +12235,10 @@
 				)
 			)
 		)
-		(property "Mouser" "449-LFXTAL026392BULK"
+		(property "Mouser" "815-ABM816.MHZ10D7GT"
 			(at 172.72 76.2 0)
 			(hide yes)
-			(show_name yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -12246,10 +12246,10 @@
 				)
 			)
 		)
-		(property "TME" "16.00M-12SM"
+		(property "TME" "CX3225FB16000F0FZZ"
 			(at 170.18 73.66 0)
 			(hide yes)
-			(show_name yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -12257,7 +12257,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2450580"
+		(property "LCSC" "C1986769"
 			(at 182.88 76.2 0)
 			(hide yes)
 			(show_name no)

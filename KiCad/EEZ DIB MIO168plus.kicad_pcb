@@ -38944,7 +38944,7 @@
 				)
 			)
 		)
-		(property "Value" "LF XTAL026392"
+		(property "Value" "ABM8-16.000MHZ-10-D7G-T"
 			(at 0 2.7305 0)
 			(layer "F.Fab")
 			(uuid "3324f95b-9c6d-4a56-8f77-6477e4d1779b")
@@ -38980,7 +38980,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1923-1009-ND"
+		(property "DigiKey" "535-14383-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38993,7 +38993,7 @@
 				)
 			)
 		)
-		(property "Mouser" "449-LFXTAL026392BULK"
+		(property "Mouser" "815-ABM816.MHZ10D7GT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39006,7 +39006,7 @@
 				)
 			)
 		)
-		(property "TME" "16.00M-12SM"
+		(property "TME" "CX3225FB16000F0FZZ"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39019,7 +39019,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2450580"
+		(property "LCSC" "C1986769"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
