@@ -7019,6 +7019,10 @@
 		(color 0 0 0 0)
 		(uuid "f836261e-7ae9-4f9c-b8be-ef9b7a2156c3")
 	)
+	(no_connect
+		(at 215.9 134.62)
+		(uuid "18feed14-70c1-4778-a0ba-7412c61c8ba4")
+	)
 	(wire
 		(pts
 			(xy 81.28 71.12) (xy 81.28 78.74)
@@ -8724,16 +8728,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 134.62) (xy 215.9 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6dfa55e-0139-4518-a749-d12814cb61c2")
-	)
-	(wire
-		(pts
 			(xy 259.08 63.5) (xy 259.08 66.04)
 		)
 		(stroke
@@ -9421,30 +9415,6 @@
 		(uuid "3c6ccf53-a062-484f-b9ff-cd5251d8a1e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.4214 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "~{ISO_RESET}"
-		(shape input)
-		(at 208.28 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify right)
-		)
-		(uuid "47fd0fee-781b-4e6b-a5d2-a5215a4ddffc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.2903 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11022,7 +10992,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA,115"
+		(property "Value" "PESD12VL1BA"
 			(at 202.692 48.641 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11066,7 +11036,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-3808-1-ND"
+		(property "DigiKey" "4518-PESD12VL1BACT-ND"
 			(at 195.58 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11077,7 +11047,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VL1BA-T/R"
+		(property "Mouser" "771-PESD12VS1UAF"
 			(at 193.04 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11088,7 +11058,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA.115"
+		(property "TME" "PESD12VL1BA,115"
 			(at 190.5 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14428,7 +14398,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA,115"
+		(property "Value" "PESD12VL1BA"
 			(at 202.692 84.201 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14472,7 +14442,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-3808-1-ND"
+		(property "DigiKey" "4518-PESD12VL1BACT-ND"
 			(at 195.58 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14483,7 +14453,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VL1BA-T/R"
+		(property "Mouser" "771-PESD12VS1UAF"
 			(at 193.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14494,7 +14464,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA.115"
+		(property "TME" "PESD12VL1BA,115"
 			(at 190.5 78.74 0)
 			(hide yes)
 			(show_name no)

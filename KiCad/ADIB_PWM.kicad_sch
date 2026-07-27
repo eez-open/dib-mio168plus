@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-07-25")
+		(date "2026-07-27")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -17901,13 +17901,13 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "L79L15"
+		(property "Value" "MC79L15ACDR2G"
 			(at 142.24 122.555 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.889 0.889)
 				)
 				(justify left bottom)
 			)
@@ -19519,7 +19519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "L78L15"
+		(property "Value" "MC78L15ACDR2G"
 			(at 139.7 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21211,7 +21211,7 @@
 				(justify top)
 			)
 		)
-		(property "Value" "IRLML2246TRPBF"
+		(property "Value" "DMP3099L"
 			(at 228.6 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21255,7 +21255,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "IRLML2246TRPBFTR-ND"
+		(property "DigiKey" "DMP3099L-13DICT-ND"
 			(at 228.6 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -21266,7 +21266,7 @@
 				)
 			)
 		)
-		(property "Mouser" "942-IRLML2246TRPBF "
+		(property "Mouser" "621-DMP3099L-7"
 			(at 228.6 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -21277,7 +21277,7 @@
 				)
 			)
 		)
-		(property "TME" "IRLML2246TRPBF"
+		(property "TME" "DMP3099L-7"
 			(at 228.6 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -21288,7 +21288,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C127272"
+		(property "LCSC" "C155244"
 			(at 228.6 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -21736,7 +21736,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "IRLML2246TRPBF"
+		(property "Value" "DMP3099L"
 			(at 248.92 113.665 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21780,7 +21780,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "IRLML2246TRPBFTR-ND"
+		(property "DigiKey" "DMP3099L-13DICT-ND"
 			(at 243.84 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -21791,7 +21791,7 @@
 				)
 			)
 		)
-		(property "Mouser" "942-IRLML2246TRPBF "
+		(property "Mouser" "621-DMP3099L-7"
 			(at 243.84 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -21802,7 +21802,7 @@
 				)
 			)
 		)
-		(property "TME" "IRLML2246TRPBF"
+		(property "TME" "DMP3099L-7"
 			(at 243.84 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -21813,7 +21813,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C127272"
+		(property "LCSC" "C155244"
 			(at 243.84 111.76 0)
 			(hide yes)
 			(show_name no)

@@ -9716,7 +9716,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA,115"
+		(property "Value" "PESD12VL1BA"
 			(at 254.508 48.641 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9760,7 +9760,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-3808-1-ND"
+		(property "DigiKey" "4518-PESD12VL1BACT-ND"
 			(at 261.62 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9771,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VL1BA-T/R"
+		(property "Mouser" "771-PESD12VS1UAF"
 			(at 264.16 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9782,7 +9782,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA.115"
+		(property "TME" "PESD12VL1BA,115"
 			(at 266.7 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11020,7 +11020,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA,115"
+		(property "Value" "PESD12VL1BA"
 			(at 254.508 122.301 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11064,7 +11064,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-3808-1-ND"
+		(property "DigiKey" "4518-PESD12VL1BACT-ND"
 			(at 261.62 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11075,7 +11075,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VL1BA-T/R"
+		(property "Mouser" "771-PESD12VS1UAF"
 			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11086,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA.115"
+		(property "TME" "PESD12VL1BA,115"
 			(at 266.7 116.84 0)
 			(hide yes)
 			(show_name no)

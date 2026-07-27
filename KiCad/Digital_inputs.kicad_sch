@@ -10002,7 +10002,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 140.335 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10046,7 +10046,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 142.24 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10057,7 +10057,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 142.24 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -10068,7 +10068,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 142.24 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -10079,7 +10079,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 142.24 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11487,7 +11487,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 206.375 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11531,7 +11531,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 208.28 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11542,7 +11542,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 208.28 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11553,7 +11553,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 208.28 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11564,7 +11564,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 208.28 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11625,7 +11625,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 219.71 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11670,7 +11670,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 226.06 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11681,7 +11681,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 226.06 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11692,7 +11692,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 226.06 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11703,7 +11703,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 226.06 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11842,7 +11842,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 175.895 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11886,7 +11886,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 177.8 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11897,7 +11897,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 177.8 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11908,7 +11908,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 177.8 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -11919,7 +11919,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 177.8 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12233,7 +12233,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 189.23 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12278,7 +12278,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 195.58 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12289,7 +12289,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 195.58 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -12300,7 +12300,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 195.58 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12311,7 +12311,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 195.58 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12497,7 +12497,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 82.55 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12542,7 +12542,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 88.9 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12553,7 +12553,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 88.9 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -12564,7 +12564,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 88.9 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12575,7 +12575,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 88.9 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13014,7 +13014,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 104.775 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13058,7 +13058,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 106.68 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13069,7 +13069,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 106.68 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -13080,7 +13080,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 106.68 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -13091,7 +13091,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 106.68 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13484,7 +13484,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 118.11 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13529,7 +13529,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 124.46 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13540,7 +13540,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 124.46 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -13551,7 +13551,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 124.46 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -13562,7 +13562,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 124.46 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13701,7 +13701,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 153.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13746,7 +13746,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 160.02 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13757,7 +13757,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 160.02 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -13768,7 +13768,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 160.02 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -13779,7 +13779,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 160.02 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13840,7 +13840,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2N7002PS,115"
+		(property "Value" "NTJD5121NT1G"
 			(at 66.04 144.145 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13884,7 +13884,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1727-4791-2-ND"
+		(property "DigiKey" "NTJD5121NT1GOSCT-ND"
 			(at 71.12 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13895,7 +13895,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-2N7002PS-115"
+		(property "Mouser" "863-NTJD5121NT1G"
 			(at 71.12 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -13906,7 +13906,7 @@
 				)
 			)
 		)
-		(property "TME" "2N7002PS.115"
+		(property "TME" "NTJD5121NT1G"
 			(at 71.12 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -13917,7 +13917,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C551419"
+		(property "LCSC" "C15215"
 			(at 71.12 142.24 0)
 			(hide yes)
 			(show_name no)
