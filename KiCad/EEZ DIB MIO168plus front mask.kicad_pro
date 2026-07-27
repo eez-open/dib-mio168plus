@@ -485,7 +485,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EEZ DIB MIO168plus front mask.kicad_pro.kicad_pro",
+    "filename": "EEZ DIB MIO168plus front mask.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -522,7 +522,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../fabrication/dxf/",
+      "plot": "../fabrication/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "fabrication/step/EEZ DIB DCP405plus front mask.step",
