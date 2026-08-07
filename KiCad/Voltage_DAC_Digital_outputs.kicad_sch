@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-07-25")
+		(date "2026-08-07")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -10694,7 +10694,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 154.94 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11287,7 +11287,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 99.06 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12106,7 +12106,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 154.94 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13194,7 +13194,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 99.06 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16151,7 +16151,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 154.94 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -17135,7 +17135,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "13-RC0603BR-079K09LCT-ND"
+		(property "DigiKey" "YAG4788CT-ND"
 			(at 154.94 78.74 0)
 			(hide yes)
 			(show_name no)

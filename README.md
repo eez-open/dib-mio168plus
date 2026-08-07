@@ -5,6 +5,10 @@
 ### Ownership and License
 The contributors are listed in CONTRIB.TXT. 
 
+Licenses | OSHWA UID
+--|--
+![osl](Images/osl.png) | [![OSHW-HR000124](Images/OSHW_UID_HR124.svg)](https://certification.oshwa.org/hr000124.html)
+
 ### Overview
 
 ![3D model](Images/MIO168plus_3D.jpg)
