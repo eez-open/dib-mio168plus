@@ -160,6 +160,11 @@
 	(property "project_name" "EEZ DIB MIO168+ module")
 	(property "project_url" "https://www.envox.eu")
 	(property "project_version" "r1B1")
+	(variants
+		(variant
+			(name "Ethernet PHY no xtal")
+		)
+	)
 	(footprint "PCM_EEZ_passives:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "008c690a-2952-4645-8894-834d55e4ed61")
@@ -5053,7 +5058,7 @@
 				)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5087,7 +5092,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5100,7 +5105,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5113,7 +5118,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5126,7 +5131,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7013,7 +7018,7 @@
 				)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7047,7 +7052,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7060,7 +7065,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7073,7 +7078,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7086,7 +7091,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16737,7 +16742,7 @@
 				(pins "4" "3" "5")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.625 -1.175)
@@ -27422,7 +27427,7 @@
 				)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27456,7 +27461,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27469,7 +27474,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27482,7 +27487,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27495,7 +27500,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28293,7 +28298,7 @@
 				)
 			)
 		)
-		(property "Mouser" "279-CRG0603F1R0"
+		(property "Mouser" "652-CR0603-F/1R00ELF"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30199,7 +30204,7 @@
 				)
 			)
 		)
-		(path "/35caadf8-380e-4f9c-969e-cbd8de561abb/550abdcd-dcc6-4443-bb0e-3e36ee06c5ce")
+		(path "/35caadf8-380e-4f9c-969e-cbd8de561abb/ecb44857-89ad-4b2e-9453-593a00ee9a49")
 		(sheetname "/Voltage DAC, IO expaders, Digital outputs/")
 		(sheetfile "Voltage_DAC_Digital_outputs.kicad_sch")
 		(units
@@ -64760,7 +64765,13 @@
 		(path "/d12f34a4-cd82-4b09-a581-302223230eb6")
 		(sheetname "/")
 		(sheetfile "EEZ DIB MIO168plus.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -85410,7 +85421,7 @@
 				)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85444,7 +85455,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85457,7 +85468,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85470,7 +85481,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85483,7 +85494,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90239,7 +90250,7 @@
 				(pins "4" "3" "5")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.625 -1.175)
@@ -91474,6 +91485,7 @@
 			(width 0.1)
 			(type solid)
 		)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "25da23e5-2b0f-4bba-8dfe-0de2f5c29b68")
 	)
@@ -91922,6 +91934,7 @@
 			(width 0.1)
 			(type solid)
 		)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "552e2fc9-ded3-433d-9eeb-7709c94b4f4f")
 	)
@@ -91955,6 +91968,7 @@
 			(width 0.1)
 			(type solid)
 		)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "e4ce0c04-eecd-4d6a-83d6-71209045784a")
 	)
@@ -91965,6 +91979,7 @@
 			(width 0.1)
 			(type solid)
 		)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "17d64a20-7a91-4929-8330-15418d7c9541")
 	)
@@ -154715,6 +154730,10 @@
 		)
 	)
 	(group ""
+		(uuid "46df26ff-b0c2-4f9e-9a98-83358e7d0d3e")
+		(members "bdc92eef-ea18-48bf-83ed-e7ea39b1805a")
+	)
+	(group ""
 		(uuid "048ff518-09db-4329-9170-86aed699a849")
 		(members "35f48ead-06cc-469b-8bac-7440cedebd2e" "60902e45-fda1-430c-a47d-0710c817c769")
 	)
@@ -154780,10 +154799,6 @@
 	(group ""
 		(uuid "d995f1ae-b208-4062-be99-3154af37f517")
 		(members "096199ab-726a-4b5a-bb7c-05646d9774ed" "1d7f8f1f-7ef4-4ea6-b1ab-2cf51c5315d4")
-	)
-	(group ""
-		(uuid "8d56cda6-adcf-406b-b2d5-0163f3bc8fa8")
-		(members "97e07322-5bf8-4d0b-8c98-0ddf0af82d0c" "bdc92eef-ea18-48bf-83ed-e7ea39b1805a")
 	)
 	(generated
 		(uuid "03dd3bde-c273-4190-b53b-6d132ebc3013")

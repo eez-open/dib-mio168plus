@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-07")
+		(date "2026-08-23")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -10992,7 +10992,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 202.692 48.641 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11036,7 +11036,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 195.58 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11047,7 +11047,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 193.04 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11058,7 +11058,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 190.5 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -11069,7 +11069,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 200.66 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -14398,7 +14398,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 202.692 84.201 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14442,7 +14442,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 195.58 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14453,7 +14453,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 193.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14464,7 +14464,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 190.5 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14475,7 +14475,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 200.66 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -15431,10 +15431,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "96c11886-d4d1-47fd-99f1-ac7db0df69f3")
 		(property "Reference" "D16"
@@ -18215,10 +18215,10 @@
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f45b3095-081e-481a-bdb6-9be9dbf4a88f")
 		(property "Reference" "D16"

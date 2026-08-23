@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-07")
+		(date "2026-08-23")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -13804,7 +13804,7 @@
 				)
 			)
 		)
-		(property "Mouser" "279-CRG0603F1R0"
+		(property "Mouser" "652-CR0603-F/1R00ELF"
 			(at 139.7 132.08 0)
 			(hide yes)
 			(show_name no)

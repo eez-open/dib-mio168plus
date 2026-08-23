@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-07")
+		(date "2026-08-23")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -8750,10 +8750,10 @@
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "07659ccc-7c60-442d-a5c4-16f48afd3000")
 		(property "Reference" "D15"
@@ -9716,7 +9716,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 254.508 48.641 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9760,7 +9760,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 261.62 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9771,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 264.16 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9782,7 +9782,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 266.7 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9793,7 +9793,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 256.54 43.18 90)
 			(hide yes)
 			(show_name no)
@@ -11020,7 +11020,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "PESD12VL1BA"
+		(property "Value" "SD12C-7"
 			(at 254.508 122.301 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11064,7 +11064,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4518-PESD12VL1BACT-ND"
+		(property "DigiKey" "31-SD12C-7CT-ND"
 			(at 261.62 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11075,7 +11075,7 @@
 				)
 			)
 		)
-		(property "Mouser" "771-PESD12VS1UAF"
+		(property "Mouser" "621-SD12C-7"
 			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11086,7 @@
 				)
 			)
 		)
-		(property "TME" "PESD12VL1BA,115"
+		(property "TME" "SD12C-7"
 			(at 266.7 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11097,7 +11097,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C38558"
+		(property "LCSC" "C1977377"
 			(at 256.54 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -12767,10 +12767,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9b18bd01-9bc2-4489-9f95-5d95ad26c679")
 		(property "Reference" "D15"
