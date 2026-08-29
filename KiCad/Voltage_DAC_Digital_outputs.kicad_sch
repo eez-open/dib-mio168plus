@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-23")
+		(date "2026-08-25")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -6810,6 +6810,12 @@
 		(uuid "39b8d9c9-122c-4929-b410-428f2b22c6cb")
 	)
 	(junction
+		(at 213.36 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b56a9dd-28bc-49b3-943b-2ea8d13f5bbf")
+	)
+	(junction
 		(at 119.38 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7019,10 +7025,6 @@
 		(color 0 0 0 0)
 		(uuid "f836261e-7ae9-4f9c-b8be-ef9b7a2156c3")
 	)
-	(no_connect
-		(at 215.9 134.62)
-		(uuid "18feed14-70c1-4778-a0ba-7412c61c8ba4")
-	)
 	(wire
 		(pts
 			(xy 81.28 71.12) (xy 81.28 78.74)
@@ -7125,6 +7127,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 134.62) (xy 215.9 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "093b192a-0a3c-4216-8466-790119248cf9")
+	)
+	(wire
+		(pts
 			(xy 165.1 38.1) (xy 165.1 33.02)
 		)
 		(stroke
@@ -7172,6 +7184,16 @@
 			(type default)
 		)
 		(uuid "0d208146-d68b-4e2d-a1a7-c3d0092e18de")
+	)
+	(wire
+		(pts
+			(xy 213.36 119.38) (xy 213.36 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e42db46-e026-43d6-a9a6-31a55b7e17c6")
 	)
 	(wire
 		(pts

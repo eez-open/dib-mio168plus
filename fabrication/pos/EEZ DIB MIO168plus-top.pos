@@ -1,4 +1,4 @@
-### Footprint positions - created on 2026-08-07T09:03:07 ###
+### Footprint positions - created on 2026-08-29T10:41:18 ###
 ### Printed by KiCad version 10.0.5-10.0.5~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -121,8 +121,6 @@ D11       MBR0530T3G               SOD123                   212.1751   -72.4508 
 D12       BAT54XYH                 SOP65P210X110-6N         155.8594  -131.8600    0.0000  top
 D13       MBR0530T3G               SOD123                   146.5971  -137.4386    0.0000  top
 D14       MBR0530T3G               SOD123                   140.3562  -137.4414  180.0000  top
-D15       BAT54XYH                 SOP65P210X110-6N          94.8439  -137.2300   90.0000  top
-D16       BAT54XYH                 SOP65P210X110-6N          94.8439  -141.3663   90.0000  top
 D17       BAT54XYH                 SOP65P210X110-6N          99.8400  -115.3000   90.0000  top
 D18       BAT54XYH                 SOP65P210X110-6N          99.8400  -120.6500   90.0000  top
 D19       BAT54XYH                 SOP65P210X110-6N          99.8400  -125.9800   90.0000  top
@@ -241,11 +239,11 @@ R69       1K8                      R_0603_1608Metric        108.2350  -125.7036 
 RN1       CAY16-330J4LF            CAY16                    157.8000  -142.4100  180.0000  top
 RN2       CAY16-330J4LF            CAY16                    205.6700  -133.0100   90.0000  top
 TR1       750315371                MURATA_78615             230.4874   -68.2780  180.0000  top
-TVS1      PESD12VL1BA              SOD-323_PESD              89.6900  -135.9600   90.0000  top
-TVS2      PESD12VL1BA              SOD-323_PESD              89.6900  -140.1500  -90.0000  top
-TVS3      PESD12VL1BA              SOD-323_PESD             105.8750  -137.5800  180.0000  top
-TVS4      PESD12VL1BA              SOD-323_PESD             105.8717  -139.6304  180.0000  top
-X2        CBED202-1379B001C1AD     CBED202-1379B001C1AD     206.0000   -79.1614  -90.0000  top
+TVS1      SD12C-7                  SOD-323_PESD              89.6900  -135.9600   90.0000  top
+TVS2      SD12C-7                  SOD-323_PESD              89.6900  -140.1500  -90.0000  top
+TVS3      SD12C-7                  SOD-323_PESD             105.8750  -137.5800  180.0000  top
+TVS4      SD12C-7                  SOD-323_PESD             105.8717  -139.6304  180.0000  top
+X2        CBED202-1379B001C1AD     CBED202-1379B001C1AD     206.2500   -79.1614  -90.0000  top
 X4        1844824                  1844824                   73.8000  -111.9000  -90.0000  top
 Y1        ABM8-16.000MHZ-10-D7G-T  XTAL_403C11A24M00000     249.9100  -111.3000  180.0000  top
 ZD1       SMAJ16A                  DO214AC-2                147.2328  -134.9059  180.0000  top
