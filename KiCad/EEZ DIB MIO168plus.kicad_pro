@@ -839,7 +839,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "../fabrication/bom/EEZ DIB MIO168plus.csv",
+    "bom_export_filename": "../../fabrication/bom/Mainboard/BB3plus mainboard.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -995,7 +995,7 @@
         "uuid": "8165d74e-be16-4c9d-8240-91910dc4b43e"
       }
     ],
-    "used_designators": "#GND_ISO1-59,TVS1-4,R1-72,L1,#+5V1-3,#+5V7,#+3V3_ISO1-19,#+12V_ISO1-12,LOGO1-5,LOGO7,#FLG1-19,IC1-23,#\\-15V_ISO1-11,SH1,ZD1-3,#\\-12V_ISO1-12,#+3V1-13,#+3V15,#+3V45-46,C1-113,#PE1-2,#PE9-10,TR1,FM1-4,KK1-2,#+5V_ISO1-3,Y1,Q1-11,JP1-3,RN1-3,#+15V_ISO1-11,X1-5,X19,#GND1-88,#\\-5V_ISO1-3,D1-23,D27,TP1-11,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,FB1-7",
+    "used_designators": "R1-72,L1,FB1-7,TP1-11,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,#FLG1-19,ZD1-3,SH1,#\\-5V_ISO1-3,FM1-4,#GND_ISO1-59,TVS1-4,#\\-15V_ISO1-11,IC1-23,#\\-12V_ISO1-12,#+3V1-13,#+3V15,#+3V45-46,C1-113,#PE1-2,#PE9-10,#+5V1-3,#+5V7,LED1,Y1,Q1-11,JP1-3,#+3V3_ISO1-19,#+12V_ISO1-12,LOGO1-5,LOGO7,TR1,KK1-2,#+5V_ISO1-3,RN1-3,#+15V_ISO1-11,X1-5,X19,D1-23,D27,#GND1-88",
     "variants": [
       {
         "name": "Ethernet PHY no xtal"
@@ -1038,7 +1038,7 @@
     "project_license": "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)",
     "project_name": "EEZ DIB MIO168+ module",
     "project_url": "https://www.envox.eu",
-    "project_version": "r1B1"
+    "project_version": "r1B2"
   },
   "tuning_profiles": {
     "meta": {

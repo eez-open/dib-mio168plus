@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-25")
+		(date "2026-08-30")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -4178,6 +4178,238 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_EEZ_discretes:DIODE_LED"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 1.905 0.635 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 5.715 -2.032 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "PCM_EEZ_SMD:LED_LTST-C170KGKT_LTO-L"
+				(at 0.635 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DigiKey" "160-1414-2-ND"
+				(at 0 -7.62 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Mouser" "859-LTST-C170KGKT"
+				(at 0 -10.16 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "TME" "LTST-C170KGKT"
+				(at 0 -12.7 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "DIODE_LED_1_0"
+				(polyline
+					(pts
+						(xy -2.032 1.778) (xy -3.429 0.381)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -3.302 -0.762)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(symbol "DIODE_LED_1_1"
+				(polyline
+					(pts
+						(xy -3.429 0.381) (xy -3.048 1.27) (xy -2.54 0.762) (xy -3.429 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.302 -0.762) (xy -2.921 0.127) (xy -2.413 -0.381) (xy -3.302 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy 1.27 2.54) (xy 0 0) (xy -1.27 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PCM_EEZ_passives:C-EU"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6623,10 +6855,6 @@
 		(uuid "927c580e-744a-4782-87fe-b4006f157ca8")
 	)
 	(no_connect
-		(at 88.9 63.5)
-		(uuid "94e8a349-fab9-47fe-8a3e-088106c08014")
-	)
-	(no_connect
 		(at 58.42 33.02)
 		(uuid "991df6bb-7978-410c-a271-307e624d2e29")
 	)
@@ -6641,10 +6869,6 @@
 	(no_connect
 		(at 58.42 35.56)
 		(uuid "b94aaaa2-6ad8-464d-a8db-8deb2261d9d9")
-	)
-	(no_connect
-		(at 58.42 111.76)
-		(uuid "b9ec8b83-a45d-4167-acbe-15b510d585c3")
 	)
 	(no_connect
 		(at 132.08 96.52)
@@ -7067,6 +7291,16 @@
 			(type solid)
 		)
 		(uuid "16777d6a-29f4-499b-badd-712d9b2fad5c")
+	)
+	(wire
+		(pts
+			(xy 91.44 63.5) (xy 91.44 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "167ce8e2-4e99-4df7-80ff-cd714099989d")
 	)
 	(wire
 		(pts
@@ -7878,6 +8112,16 @@
 			(type default)
 		)
 		(uuid "57514d92-f845-4128-a330-282a3ec3c4df")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 111.76 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "583f6390-826c-4510-889a-8c5c9f5781a0")
 	)
 	(wire
 		(pts
@@ -9241,6 +9485,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 66.04) (xy 101.6 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc742f3c-d84d-499c-886b-18289c7b868d")
+	)
+	(wire
+		(pts
 			(xy 43.18 154.94) (xy 58.42 154.94)
 		)
 		(stroke
@@ -9268,6 +9522,16 @@
 			(type solid)
 		)
 		(uuid "c07c3eba-908f-4db6-b066-14fe2fbbca70")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 114.3 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1b2e378-7460-44d6-9165-8612c458f224")
 	)
 	(wire
 		(pts
@@ -9748,6 +10012,16 @@
 			(type solid)
 		)
 		(uuid "e695fd1a-6f27-4dce-b71b-354d191caf02")
+	)
+	(wire
+		(pts
+			(xy 88.9 63.5) (xy 91.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8eab463-eda1-4b24-a83c-cdff04203126")
 	)
 	(wire
 		(pts
@@ -12585,6 +12859,84 @@
 	)
 	(symbol
 		(lib_id "PCM_EEZ_symbols:GND")
+		(at 114.3 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "35a37b2d-8ce9-479d-90ee-2e46ffa4c1aa")
+		(property "Reference" "#GND028"
+			(at 114.3 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 73.025 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "47531db7-cb98-4c1d-a5f0-339ac45d5b9a")
+		)
+		(instances
+			(project "EEZ DIB MIO168plus"
+				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/49529a10-7659-44a8-9d1e-27c9586b0203"
+					(reference "#GND028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_EEZ_symbols:GND")
 		(at 124.46 193.04 0)
 		(mirror y)
 		(unit 1)
@@ -12685,7 +13037,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1u/50V"
 			(at 66.04 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13875,7 +14227,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 129.54 133.985 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13919,7 +14271,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 127 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13930,7 +14282,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 127 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13941,7 +14293,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 127 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13952,7 +14304,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 127 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -14360,6 +14712,131 @@
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/49529a10-7659-44a8-9d1e-27c9586b0203"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_EEZ_discretes:DIODE_LED")
+		(at 109.22 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "7b59d7ba-3219-45fe-a99c-d10639172be3")
+		(property "Reference" "LED1"
+			(at 107.95 62.23 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "LTST-C170KGKT"
+			(at 107.95 69.215 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(property "Footprint" "PCM_EEZ_SMD:LED_LTST-C170KGKT_LTO-L"
+			(at 113.03 66.675 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey" "160-1414-2-ND"
+			(at 116.84 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "859-LTST-C170KGKT"
+			(at 119.38 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" "LTST-C170KGKT"
+			(at 121.92 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 109.22 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "C"
+			(uuid "2dac8445-a036-46a8-9b99-9ec1ad0010dd")
+		)
+		(pin "A"
+			(uuid "7351d441-6e02-4959-ba13-913f2bac110e")
+		)
+		(instances
+			(project "EEZ DIB MIO168plus"
+				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/49529a10-7659-44a8-9d1e-27c9586b0203"
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -17972,6 +18449,133 @@
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/49529a10-7659-44a8-9d1e-27c9586b0203"
 					(reference "#GND025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "R-EU_2")
+		(lib_id "PCM_EEZ_passives:R-EU")
+		(at 96.52 66.04 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "cdb6a0e5-857f-49c1-9c25-3b918798a9a9")
+		(property "Reference" "R70"
+			(at 96.52 64.77 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "750R"
+			(at 96.52 67.31 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" "PCM_EEZ_passives:R_0603_1608Metric"
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TME" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 96.52 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8f8e9836-b305-47b0-b9d2-645f1c983737")
+		)
+		(pin "2"
+			(uuid "2d435867-a0b1-4816-b38e-fca3d7c6b6bf")
+		)
+		(instances
+			(project "EEZ DIB MIO168plus"
+				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/49529a10-7659-44a8-9d1e-27c9586b0203"
+					(reference "R70")
 					(unit 1)
 				)
 			)

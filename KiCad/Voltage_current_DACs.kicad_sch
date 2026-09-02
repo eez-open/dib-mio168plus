@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-25")
+		(date "2026-08-30")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -10817,7 +10817,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 162.56 154.305 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10861,7 +10861,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 162.56 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10872,7 +10872,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 162.56 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10883,7 +10883,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 162.56 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10894,7 +10894,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 162.56 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -13155,7 +13155,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 175.26 80.645 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13199,7 +13199,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 175.26 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13210,7 +13210,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 175.26 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13221,7 +13221,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 175.26 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13232,7 +13232,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 175.26 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -14580,7 +14580,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 162.56 80.645 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14624,7 +14624,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 162.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14635,7 +14635,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 162.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14646,7 +14646,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 162.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14657,7 +14657,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 162.56 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -14706,7 +14706,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 175.26 154.305 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14750,7 +14750,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 175.26 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -14761,7 +14761,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 175.26 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -14772,7 +14772,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 175.26 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -14783,7 +14783,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 175.26 152.4 90)
 			(hide yes)
 			(show_name no)

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-25")
+		(date "2026-08-30")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -2464,9 +2464,6 @@
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e"
 					(reference "LOGO7")
 					(unit 1)
-					(variant
-						(name "Ethernet PHY no xtal")
-					)
 				)
 			)
 		)

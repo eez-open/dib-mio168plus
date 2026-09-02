@@ -11,7 +11,13 @@ Licenses | OSHWA UID
 
 ### Overview
 
-![3D model](Images/MIO168plus_3D.jpg)
+![MIO_empty](Images/MIO168plus.jpg)
+
+_Fig 1: MIO168+ without AFE module_
+
+![MIO_AFE3](Images/MIO168plus_AFE3_installed.jpg)
+
+_Fig 2: MIO168+ with AFE3+ installed_
 
 The MIO168+ module features multiple digital I/O, analog outputs and expansion connectors for carry various AFEs.
 

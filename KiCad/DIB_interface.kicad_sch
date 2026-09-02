@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-25")
+		(date "2026-08-30")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -6650,6 +6650,113 @@
 					(at 0 2.54 270)
 					(length 2.54)
 					(name "PE"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_EEZ_unsorted:PCB test point"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files no)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 1.016 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "Test"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "PCM_EEZ_THT:Testhole 24_50mils"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PCB test point_1_0"
+				(polyline
+					(pts
+						(xy 0 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0.635 0)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 0)
+					(name "P$1"
 						(effects
 							(font
 								(size 0 0)
@@ -14833,7 +14940,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 132.08 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14877,7 +14984,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 132.08 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14888,7 +14995,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 132.08 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14899,7 +15006,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 132.08 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14910,7 +15017,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 132.08 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -15642,6 +15749,141 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_EEZ_unsorted:PCB test point")
+		(at 35.56 53.34 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "5e17e6e3-40f8-4a9c-ba5f-b147341c23a0")
+		(property "Reference" "TP9"
+			(at 33.655 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Test"
+			(at 35.56 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "PCM_EEZ_THT:TEST-5"
+			(at 35.56 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(property "Mouser" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(property "TME" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(property "Label" "GND"
+			(at 35.56 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.889 0.889)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8970aba9-11db-4029-9c75-7fc6a2f4d534")
+		)
+		(instances
+			(project "EEZ DIB MIO168plus"
+				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/a09a6849-987f-46b9-b52e-df6cf57fd371"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_EEZ_symbols:+3V3_ISO")
 		(at 248.92 76.2 0)
 		(unit 1)
@@ -16304,7 +16546,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 142.24 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16348,7 +16590,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 142.24 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -16359,7 +16601,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 142.24 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -16370,7 +16612,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 142.24 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -16381,7 +16623,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 142.24 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17318,7 +17560,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4u7/35V"
 			(at 137.16 184.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17362,7 +17604,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "1276-1044-1-ND"
+		(property "DigiKey" "1276-6794-1-ND"
 			(at 137.16 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17373,7 +17615,7 @@
 				)
 			)
 		)
-		(property "Mouser" "187-CL10A475KP8NNNC"
+		(property "Mouser" "81-GRM188R6YA475ME5D"
 			(at 137.16 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17384,7 +17626,7 @@
 				)
 			)
 		)
-		(property "TME" "CL10A475KP8NNNC"
+		(property "TME" "GRM219R6YA475KA73D"
 			(at 137.16 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -17395,7 +17637,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C913498"
 			(at 137.16 180.34 0)
 			(hide yes)
 			(show_name no)
