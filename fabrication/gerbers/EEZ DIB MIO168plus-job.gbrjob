@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.6-10.0.6~ubuntu24.04.1"
     },
-    "CreationDate": "2026-08-30T11:16:05+02:00"
+    "CreationDate": "2026-09-08T12:36:01+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "EEZ DIB MIO168plus",
       "GUID": "45455a20-4449-4422-904d-494f31363870",
-      "Revision": "r1B1"
+      "Revision": "r1B2"
     },
     "Size": {
       "X": 191.1,
