@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-09-13")
+		(date "2026-09-14")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -33978,7 +33978,7 @@
 				)
 			)
 		)
-		(path "/a09a6849-987f-46b9-b52e-df6cf57fd371/baa18d52-f729-4aa4-8a0b-cf5adbba0124")
+		(path "/a09a6849-987f-46b9-b52e-df6cf57fd371/63473755-ba0c-4c56-9dc3-5d59d90a346a")
 		(sheetname "/DIB2 interface, USB PHY/")
 		(sheetfile "DIB_interface.kicad_sch")
 		(units
@@ -61838,7 +61838,7 @@
 				)
 			)
 		)
-		(property "Value" "SMF24A"
+		(property "Value" "SMF24CA"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "aae23866-8c31-4c62-8024-bce38bebc922")
@@ -61872,7 +61872,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4878-SMF24ACT-ND"
+		(property "DigiKey" "4878-SMF24CADKR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61885,7 +61885,7 @@
 				)
 			)
 		)
-		(property "Mouser" "637-SMF24A"
+		(property "Mouser" "637-SMF24CA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61898,7 +61898,7 @@
 				)
 			)
 		)
-		(property "TME" "SMF24A-DIO"
+		(property "TME" "SMF24CA-DIO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61911,7 +61911,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C315999"
+		(property "LCSC" "C3720035"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76579,7 +76579,7 @@
 				)
 			)
 		)
-		(path "/a09a6849-987f-46b9-b52e-df6cf57fd371/e4134bcf-9cca-4f23-a918-68606f166242")
+		(path "/a09a6849-987f-46b9-b52e-df6cf57fd371/b3516b39-fa22-4b4d-8216-21461ac3c9e1")
 		(sheetname "/DIB2 interface, USB PHY/")
 		(sheetfile "DIB_interface.kicad_sch")
 		(units

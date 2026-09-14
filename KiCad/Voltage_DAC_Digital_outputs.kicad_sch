@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-08-30")
+		(date "2026-09-14")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -3205,32 +3205,32 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_EEZ_discretes:DIODE_TVS_UNI"
+		(symbol "PCM_EEZ_discretes:DIODE_TVS"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "ZD"
-				(at -1.778 1.905 0)
+				(at 1.905 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.778 1.5113)
+						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify bottom)
 				)
 			)
-			(property "Value" ""
-				(at -1.778 -3.429 0)
+			(property "Value" "???"
+				(at 1.27 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.778 1.5113)
+						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify top)
 				)
 			)
 			(property "Footprint" ""
@@ -3266,20 +3266,10 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "DIODE_TVS_UNI_1_0"
+			(symbol "DIODE_TVS_1_0"
 				(polyline
 					(pts
-						(xy 0 1.27) (xy 0 0)
+						(xy 1.27 1.27) (xy 1.27 0)
 					)
 					(stroke
 						(width 0.254)
@@ -3291,7 +3281,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27)
+						(xy 1.27 0) (xy 1.27 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3303,7 +3293,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -1.27) (xy -0.635 -1.905)
+						(xy 1.27 -1.27) (xy 0.635 -1.905)
 					)
 					(stroke
 						(width 0.254)
@@ -3315,7 +3305,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 1.905) (xy 0 1.27)
+						(xy 1.905 1.905) (xy 1.27 1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3327,7 +3317,7 @@
 				)
 				(pin passive line
 					(at -2.54 0 0)
-					(length 2.54)
+					(length 1.27)
 					(name "A"
 						(effects
 							(font
@@ -3345,7 +3335,7 @@
 				)
 				(pin passive line
 					(at 5.08 0 180)
-					(length 2.54)
+					(length 1.27)
 					(name "C"
 						(effects
 							(font
@@ -3362,10 +3352,22 @@
 					)
 				)
 			)
-			(symbol "DIODE_TVS_UNI_1_1"
+			(symbol "DIODE_TVS_1_1"
 				(polyline
 					(pts
-						(xy 2.54 1.27) (xy 0 0) (xy 2.54 -1.27) (xy 2.54 1.27)
+						(xy -1.27 1.27) (xy 1.27 0) (xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.27) (xy 1.27 0) (xy 3.81 -1.27) (xy 3.81 1.27)
 					)
 					(stroke
 						(width 0)
@@ -15981,7 +15983,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_EEZ_discretes:DIODE_TVS_UNI")
+		(lib_id "PCM_EEZ_discretes:DIODE_TVS")
 		(at 254 111.76 270)
 		(unit 1)
 		(body_style 1)
@@ -15992,25 +15994,25 @@
 		(dnp no)
 		(uuid "9efff6c1-9680-4982-8bbc-3dbb6d59d529")
 		(property "Reference" "ZD3"
-			(at 256.032 110.49 90)
+			(at 256.54 113.665 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify left bottom)
 			)
 		)
-		(property "Value" "SMF24A"
-			(at 256.032 112.776 90)
+		(property "Value" "SMF24CA"
+			(at 256.54 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify left bottom)
 			)
 		)
 		(property "Footprint" "PCM_EEZ_SMD:SODFL3718X130N"
@@ -16046,7 +16048,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "4878-SMF24ACT-ND"
+		(property "DigiKey" "4878-SMF24CADKR-ND"
 			(at 254 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16057,7 +16059,7 @@
 				)
 			)
 		)
-		(property "Mouser" "637-SMF24A"
+		(property "Mouser" "637-SMF24CA"
 			(at 254 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16068,7 +16070,7 @@
 				)
 			)
 		)
-		(property "TME" "SMF24A-DIO"
+		(property "TME" "SMF24CA-DIO"
 			(at 254 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -16079,7 +16081,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C315999"
+		(property "LCSC" "C3720035"
 			(at 254 111.76 0)
 			(hide yes)
 			(show_name no)
