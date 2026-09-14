@@ -18679,7 +18679,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "SMAJ16A"
+		(property "Value" "SMF16A"
 			(at 256.032 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18690,7 +18690,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "PCM_EEZ_SMD:DO214AC-2"
+		(property "Footprint" "PCM_EEZ_SMD:SODFL3718X130N"
 			(at 250.825 55.245 0)
 			(hide yes)
 			(show_name no)
@@ -18723,7 +18723,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "SMAJ16A-FDICT-ND"
+		(property "DigiKey" "4878-SMF16ATR-ND"
 			(at 254 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -18734,7 +18734,7 @@
 				)
 			)
 		)
-		(property "Mouser" "621-SMAJ16A-13-F"
+		(property "Mouser" "637-SMF16A"
 			(at 254 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -18745,7 +18745,7 @@
 				)
 			)
 		)
-		(property "TME" "SMAJ16A-13-F"
+		(property "TME" "SMF16A-DIO"
 			(at 254 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -18756,7 +18756,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C74561"
+		(property "LCSC" "C207257"
 			(at 254 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -20583,7 +20583,7 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "SMAJ16A"
+		(property "Value" "SMF16A"
 			(at 261.62 84.455 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20594,7 +20594,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "PCM_EEZ_SMD:DO214AC-2"
+		(property "Footprint" "PCM_EEZ_SMD:SODFL3718X130N"
 			(at 255.905 84.455 0)
 			(hide yes)
 			(show_name no)
@@ -20627,7 +20627,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "SMAJ16A-FDICT-ND"
+		(property "DigiKey" "4878-SMF16ATR-ND"
 			(at 259.08 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -20638,7 +20638,7 @@
 				)
 			)
 		)
-		(property "Mouser" "621-SMAJ16A-13-F"
+		(property "Mouser" "637-SMF16A"
 			(at 259.08 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -20649,7 +20649,7 @@
 				)
 			)
 		)
-		(property "TME" "SMAJ16A-13-F"
+		(property "TME" "SMF16A-DIO"
 			(at 259.08 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -20660,7 +20660,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C74561"
+		(property "LCSC" "C207257"
 			(at 259.08 83.82 90)
 			(hide yes)
 			(show_name no)
