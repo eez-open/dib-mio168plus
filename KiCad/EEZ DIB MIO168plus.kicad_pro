@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.5,
+          "height": 1.85,
+          "width": 1.85
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -995,7 +995,7 @@
         "uuid": "8165d74e-be16-4c9d-8240-91910dc4b43e"
       }
     ],
-    "used_designators": "#+15V_ISO1-11,X1-5,X19,#+5V_ISO1-3,KK1-2,RN1-3,LOGO1-5,LOGO7,#+3V3_ISO1-19,#+12V_ISO1-12,#+5V1-3,#+5V7,LED1,#FLG1-19,#\\-15V_ISO1-11,IC1-23,#GND_ISO1-59,#\\-12V_ISO1-12,#+3V1-13,#+3V15,#+3V45-46,C1-113,#PE1-2,#PE9-10,#GND1-88,L1,R1-72,TP1-11,FB1-7,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,D1-23,D27,SH1,ZD1-4,FM1-4,TVS1-4,Y1,JP1-3,Q1-11,TR1,#\\-5V_ISO1-3",
+    "used_designators": "#GND1-88,#PE1-2,#PE9-10,C1-113,#+3V1-13,#+3V15,#+3V45-46,#\\-12V_ISO1-12,LOGO1-5,LOGO7,#+12V_ISO1-12,#+3V3_ISO1-19,#FLG1-19,#\\-15V_ISO1-11,IC1-23,#+5V1-3,#+5V7,LED1,R1-72,L1,TP1-11,FB1-7,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,D1-23,D27,SH1,ZD1-4,FM1-4,TVS1-4,Y1,JP1-3,Q1-11,TR1,#\\-5V_ISO1-3,RN1-3,KK1-2,#+5V_ISO1-3,X1-5,X19,#+15V_ISO1-11,#GND_ISO1-59",
     "variants": [
       {
         "name": "Ethernet PHY no xtal"

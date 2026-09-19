@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-09-14")
+		(date "2026-09-19")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -3830,11 +3830,11 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_EEZ_connectors:TC2030-IDC"
+		(symbol "PCM_EEZ_connectors:WR-WST REDFIT IDC"
 			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
-			(in_pos_files yes)
+			(in_pos_files no)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "X"
 				(at 5.08 3.175 0)
@@ -3858,8 +3858,8 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_EEZ_connectors:TC2030"
-				(at 1.27 -17.78 0)
+			(property "Footprint" "PCM_EEZ_connectors:WR-WST_490107670612_DEBUG"
+				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3880,8 +3880,8 @@
 					)
 				)
 			)
-			(property "Description" "Tag-Connect Plug-of-Nails connector"
-				(at 5.08 -17.78 0)
+			(property "Description" "SKEDD 2.54mm Pitch 6 Pin"
+				(at 0 -20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3902,7 +3902,7 @@
 					)
 				)
 			)
-			(symbol "TC2030-IDC_1_0"
+			(symbol "WR-WST REDFIT IDC_1_0"
 				(polyline
 					(pts
 						(xy 5.08 2.54) (xy 5.08 0)
@@ -4024,7 +4024,7 @@
 					)
 				)
 			)
-			(symbol "TC2030-IDC_1_1"
+			(symbol "WR-WST REDFIT IDC_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 15.24 -15.24)
@@ -6288,7 +6288,7 @@
 		)
 		(uuid "8a919aac-aa0b-4884-bd51-386d3e256959")
 	)
-	(text "PCB pads for\nTag-Connect TC2030-CTX"
+	(text "PCB pads for\nWR-WST REDFIT IDC"
 		(exclude_from_sim no)
 		(at 17.78 139.7 0)
 		(effects
@@ -15644,7 +15644,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_EEZ_connectors:TC2030-IDC")
+		(lib_id "PCM_EEZ_connectors:WR-WST REDFIT IDC")
 		(at 45.72 147.32 0)
 		(mirror y)
 		(unit 1)
@@ -15652,7 +15652,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "89679874-ffb3-43c2-998d-84b02b2b5399")
 		(property "Reference" "X3"
@@ -15677,8 +15677,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_EEZ_connectors:TC2030"
-			(at 44.45 165.1 0)
+		(property "Footprint" "PCM_EEZ_connectors:WR-WST_490107670612_DEBUG"
+			(at 45.72 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15699,8 +15699,8 @@
 				)
 			)
 		)
-		(property "Description" "Tag-Connect Plug-of-Nails connector"
-			(at 40.64 165.1 0)
+		(property "Description" "SKEDD 2.54mm Pitch 6 Pin"
+			(at 45.72 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
