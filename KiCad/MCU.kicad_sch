@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-09-19")
+		(date "2026-09-21")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -6847,6 +6847,10 @@
 		(uuid "86a16673-ef05-4eae-96d0-583e7f3c5358")
 	)
 	(no_connect
+		(at 58.42 111.76)
+		(uuid "8ab03ca2-dc66-4b53-ad4e-417bcada7565")
+	)
+	(no_connect
 		(at 162.56 55.88)
 		(uuid "8b0e4ced-6c21-4f69-96ce-1c86f7e33e05")
 	)
@@ -11695,7 +11699,7 @@
 			)
 		)
 	)
-	(global_label "DIB_OE_SYNC"
+	(global_label "DIB_SYNC"
 		(shape input)
 		(at 53.34 93.98 180)
 		(fields_autoplaced yes)

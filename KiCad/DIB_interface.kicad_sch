@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-09-19")
+		(date "2026-09-21")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -8254,10 +8254,6 @@
 		(uuid "257591a1-38d9-46fe-b618-c8961332947a")
 	)
 	(no_connect
-		(at 246.38 88.9)
-		(uuid "269b83b9-33fd-463f-859f-c47fab82ae18")
-	)
-	(no_connect
 		(at 43.18 60.96)
 		(uuid "26a7fb01-a12f-4f62-90b6-c6c140ca86db")
 	)
@@ -8282,6 +8278,10 @@
 		(uuid "5124668a-a3f8-4b4d-bf64-adfa5bb0f075")
 	)
 	(no_connect
+		(at 246.38 88.9)
+		(uuid "51e64e75-defc-4489-8bdd-832a893412ee")
+	)
+	(no_connect
 		(at 43.18 33.02)
 		(uuid "554da90b-982e-4f0e-bf65-f999dd449bf5")
 	)
@@ -8300,10 +8300,6 @@
 	(no_connect
 		(at 246.38 149.86)
 		(uuid "69740055-f6f7-4177-9073-1dced378cc73")
-	)
-	(no_connect
-		(at 210.82 88.9)
-		(uuid "71837a54-8a83-4540-b56f-214db710f730")
 	)
 	(no_connect
 		(at 43.18 50.8)
@@ -8524,6 +8520,16 @@
 			(type default)
 		)
 		(uuid "05406c49-1059-4f8d-8cf0-6597aad29ad1")
+	)
+	(wire
+		(pts
+			(xy 205.74 88.9) (xy 210.82 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0594f862-cff9-4839-bf07-c14f9535edff")
 	)
 	(wire
 		(pts
@@ -11530,7 +11536,7 @@
 			)
 		)
 	)
-	(global_label "DIB_OE_SYNC"
+	(global_label "DIB_SYNC"
 		(shape output)
 		(at 76.2 60.96 0)
 		(fields_autoplaced yes)
@@ -11575,6 +11581,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "DIB_SYNC"
+		(shape input)
+		(at 205.74 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify right)
+		)
+		(uuid "4e53adbd-7f42-4175-b4d4-93901579a56e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 194.93 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
