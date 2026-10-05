@@ -525,7 +525,7 @@
       "plot": "../fabrication/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "fabrication/step/EEZ DIB DCP405plus front mask.step",
+      "step": "../fabrication/step/MIO168plus front mask.step",
       "svg": "",
       "vrml": ""
     },
