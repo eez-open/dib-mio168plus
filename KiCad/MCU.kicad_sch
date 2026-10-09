@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-09-21")
+		(date "2026-10-08")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -6338,6 +6338,28 @@
 		)
 		(uuid "e5e915b8-f127-4777-b6d2-ba855261bdc0")
 	)
+	(text_box "Ensure that SPI is selected for the bootloader mode in accordance with the instructions in AN2606."
+		(exclude_from_sim no)
+		(at 59.69 15.24 0)
+		(size 27.94 6.1977)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 255 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "05bf1ac9-fa14-4fa3-aae1-8008d815be06")
+	)
 	(junction
 		(at 167.64 83.82)
 		(diameter 0)
@@ -6733,6 +6755,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5357b55-3ce2-41be-a25a-c7e049f1d1ac")
+	)
+	(junction
+		(at 165.1 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d57e320d-1f4f-43d1-87b0-af59c79b090b")
 	)
 	(junction
 		(at 144.78 147.32)
@@ -7178,7 +7206,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 73.66) (xy 162.56 73.66)
+			(xy 177.8 73.66) (xy 165.1 73.66)
 		)
 		(stroke
 			(width 0.1524)
@@ -7255,6 +7283,16 @@
 			(type solid)
 		)
 		(uuid "142b73a8-d7d8-4a11-b12a-de7668500889")
+	)
+	(wire
+		(pts
+			(xy 165.1 71.12) (xy 170.18 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "156f1f7c-7b32-4781-bfd8-5a0f5f8d6133")
 	)
 	(wire
 		(pts
@@ -7368,7 +7406,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 73.66) (xy 170.18 71.12)
+			(xy 177.8 73.66) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0.1524)
@@ -7749,6 +7787,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 73.66) (xy 162.56 73.66)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "372495a5-322b-4179-95ac-fb5a29576acf")
+	)
+	(wire
+		(pts
 			(xy 139.7 137.16) (xy 144.78 137.16)
 		)
 		(stroke
@@ -7896,6 +7944,16 @@
 			(type default)
 		)
 		(uuid "41759cea-5128-4d55-93ba-0dd49dc17e27")
+	)
+	(wire
+		(pts
+			(xy 165.1 71.12) (xy 165.1 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "422d28c3-23f9-4b20-9659-bfb640923462")
 	)
 	(wire
 		(pts
@@ -8449,7 +8507,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 81.28) (xy 170.18 81.28)
+			(xy 182.88 81.28) (xy 177.8 81.28)
 		)
 		(stroke
 			(width 0)
@@ -9009,7 +9067,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 71.12) (xy 170.18 71.12)
+			(xy 182.88 71.12) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0)
@@ -9779,7 +9837,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 76.2) (xy 170.18 81.28)
+			(xy 177.8 76.2) (xy 177.8 81.28)
 		)
 		(stroke
 			(width 0.1524)
@@ -10009,7 +10067,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 76.2) (xy 170.18 76.2)
+			(xy 162.56 76.2) (xy 177.8 76.2)
 		)
 		(stroke
 			(width 0.1524)
@@ -10267,16 +10325,6 @@
 			(justify right bottom)
 		)
 		(uuid "073e2f66-c54b-4373-aeb3-b7aa2401d2ac")
-	)
-	(label "RCC_OSC_IN"
-		(at 170.18 71.12 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify left bottom)
-		)
-		(uuid "093eb69b-3340-46e3-8979-f848c8b07d30")
 	)
 	(label "FMC_A1"
 		(at 218.44 33.02 0)
@@ -10627,16 +10675,6 @@
 			(justify left bottom)
 		)
 		(uuid "5d6cbfb3-fe79-420f-a038-b02ba56a4697")
-	)
-	(label "RCC_OSC_OUT"
-		(at 170.18 81.28 0)
-		(effects
-			(font
-				(size 0.889 0.889)
-			)
-			(justify left bottom)
-		)
-		(uuid "60af5726-d597-4498-ba7e-8630155907d8")
 	)
 	(label "FMC_A4"
 		(at 116.84 83.82 0)
@@ -11554,6 +11592,30 @@
 			)
 		)
 	)
+	(global_label "CLK_IN"
+		(shape input)
+		(at 170.18 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "8848b043-2043-41d1-9227-05d91b0340f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.7991 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "AFE_SPI_MOSI"
 		(shape output)
 		(at 93.98 60.96 0)
@@ -12442,10 +12504,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "112cdbad-a4a6-4a3f-8be9-cad8778bf919")
 		(property "Reference" "Y1"
 			(at 186.055 76.2 90)
@@ -14730,7 +14792,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "7b59d7ba-3219-45fe-a99c-d10639172be3")
 		(property "Reference" "LED1"
@@ -16974,10 +17036,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "ae384478-74fa-4f67-9366-0551e1130a17")
 		(property "Reference" "C34"
 			(at 190.5 69.215 90)
@@ -18468,7 +18530,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "cdb6a0e5-857f-49c1-9c25-3b918798a9a9")
 		(property "Reference" "R70"
@@ -19958,10 +20020,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "fa217b9d-8ce4-4dd1-9149-0789109e1b8f")
 		(property "Reference" "C35"
 			(at 190.5 79.375 90)
