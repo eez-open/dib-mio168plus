@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.6-10.0.6~ubuntu24.04.1"
+      "Version": "10.0.7-10.0.7~ubuntu24.04.1"
     },
-    "CreationDate": "2026-10-05T13:47:58+02:00"
+    "CreationDate": "2026-10-16T07:35:05+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "r4B2"
     },
     "Size": {
-      "X": 17.3,
+      "X": 17.7,
       "Y": 111.55
     },
     "LayerNumber": 2,
@@ -38,8 +38,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EEZ DIB MIO168plus front mask-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
+      "Path": "EEZ DIB MIO168plus front mask-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
@@ -61,6 +61,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Top Silk Screen"
     },
     {
@@ -69,6 +70,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "White",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -79,6 +81,7 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R213G213B213",
       "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
@@ -91,6 +94,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "White",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
@@ -100,6 +104,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Bottom Silk Screen"
     }
   ]
