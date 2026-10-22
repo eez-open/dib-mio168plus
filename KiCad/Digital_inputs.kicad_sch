@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-10-08")
+		(date "2026-10-17")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -9335,7 +9335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "012d78b6-714c-46d0-8344-606ee53c3f5d")
-		(property "Reference" "C96"
+		(property "Reference" "C81"
 			(at 205.74 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9443,7 +9443,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C96")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -9600,7 +9600,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0913232d-093c-4c75-8d9f-ac5e519ff459")
-		(property "Reference" "R46"
+		(property "Reference" "R47"
 			(at 48.26 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9708,7 +9708,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R46")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -9865,7 +9865,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "12ccf449-dd5e-43fb-b549-08544ee7db37")
-		(property "Reference" "R63"
+		(property "Reference" "R64"
 			(at 168.91 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9973,7 +9973,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R63")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -10129,7 +10129,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22caeb9a-f81e-468e-894d-cc7a76278eaa")
-		(property "Reference" "R68"
+		(property "Reference" "R69"
 			(at 242.57 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10237,7 +10237,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R68")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -10255,7 +10255,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "379cd0be-83d3-4d16-9f4b-f5d12e4719e4")
-		(property "Reference" "R62"
+		(property "Reference" "R63"
 			(at 156.21 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10363,7 +10363,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R62")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -10380,7 +10380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a05278e-18a0-4cd4-a07a-2fdc9f55acc2")
-		(property "Reference" "C106"
+		(property "Reference" "C91"
 			(at 256.54 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10488,7 +10488,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C106")
+					(reference "C91")
 					(unit 1)
 				)
 			)
@@ -10507,7 +10507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f00f176-f340-44a7-a203-a3f230dc7dc0")
-		(property "Reference" "R51"
+		(property "Reference" "R52"
 			(at 62.23 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10615,7 +10615,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R51")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -10770,7 +10770,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "491fe826-2bb7-4c4d-9e61-e6bca3aa2f31")
-		(property "Reference" "C100"
+		(property "Reference" "C85"
 			(at 223.52 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10878,7 +10878,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C100")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -10895,7 +10895,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a30a865-3182-4913-b745-05426a647720")
-		(property "Reference" "C99"
+		(property "Reference" "C84"
 			(at 218.44 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11003,7 +11003,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C99")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -11020,7 +11020,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c914e2e-aeb3-41f7-8811-f12c629e15d9")
-		(property "Reference" "C101"
+		(property "Reference" "C86"
 			(at 231.14 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11128,7 +11128,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C101")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -11145,7 +11145,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51e94841-bcd6-403d-885d-da76a6a26876")
-		(property "Reference" "#GND_ISO057"
+		(property "Reference" "#GND_ISO059"
 			(at 256.54 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11206,7 +11206,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "#GND_ISO057")
+					(reference "#GND_ISO059")
 					(unit 1)
 				)
 			)
@@ -11225,7 +11225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "529aee9d-2126-4489-a70f-ac0a5dd2764d")
-		(property "Reference" "R65"
+		(property "Reference" "R66"
 			(at 186.69 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11333,7 +11333,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R65")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -11350,7 +11350,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5417dc9c-9505-40cc-8611-f2d63fe6a4bf")
-		(property "Reference" "C105"
+		(property "Reference" "C90"
 			(at 251.46 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11458,7 +11458,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C105")
+					(reference "C90")
 					(unit 1)
 				)
 			)
@@ -11752,7 +11752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6eed31e0-6192-465c-87a6-818d081e27f6")
-		(property "Reference" "#GND_ISO059"
+		(property "Reference" "#GND_ISO055"
 			(at 63.5 127 0)
 			(hide yes)
 			(show_name no)
@@ -11813,7 +11813,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "#GND_ISO059")
+					(reference "#GND_ISO055")
 					(unit 1)
 				)
 			)
@@ -11969,7 +11969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "70fa5cab-56ff-4508-a586-3e665a44f4af")
-		(property "Reference" "R56"
+		(property "Reference" "R57"
 			(at 102.87 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12077,7 +12077,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R56")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -12096,7 +12096,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71b45bac-d3f1-45a9-9e4e-6fc5fb5c1f53")
-		(property "Reference" "R44"
+		(property "Reference" "R45"
 			(at 48.26 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12204,7 +12204,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R44")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -12360,7 +12360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7398015b-cbd9-4619-b1de-a8c96ea36cdf")
-		(property "Reference" "C98"
+		(property "Reference" "C83"
 			(at 216.154 38.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12468,7 +12468,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C98")
+					(reference "C83")
 					(unit 1)
 				)
 			)
@@ -12625,7 +12625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7af77456-63b5-4e4d-b8b2-315ac8d92b80")
-		(property "Reference" "R58"
+		(property "Reference" "R59"
 			(at 120.65 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12733,7 +12733,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R58")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -12752,7 +12752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b4ced54-0ab5-4891-8d4c-ae07f0ae6830")
-		(property "Reference" "R59"
+		(property "Reference" "R60"
 			(at 133.35 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12860,7 +12860,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R59")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -12877,7 +12877,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c40f82c-a38d-4dd8-a497-6a9a9510dbb9")
-		(property "Reference" "C102"
+		(property "Reference" "C87"
 			(at 236.22 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12985,7 +12985,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C102")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -13140,7 +13140,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8657d70e-6ffa-47df-9934-642b4edd8822")
-		(property "Reference" "#GND_ISO058"
+		(property "Reference" "#GND_ISO056"
 			(at 68.58 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -13201,7 +13201,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "#GND_ISO058")
+					(reference "#GND_ISO056")
 					(unit 1)
 				)
 			)
@@ -13220,7 +13220,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86e305dd-50b7-47cf-ba58-934b21f49174")
-		(property "Reference" "R55"
+		(property "Reference" "R56"
 			(at 97.79 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13328,7 +13328,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R55")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -13347,7 +13347,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "885c1435-d8fa-400a-9a87-995821884ac7")
-		(property "Reference" "R49"
+		(property "Reference" "R50"
 			(at 55.88 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13455,7 +13455,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R49")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -13611,7 +13611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8b1f5768-369f-4c43-8e58-1bdfa5c436da")
-		(property "Reference" "#GND_ISO056"
+		(property "Reference" "#GND_ISO058"
 			(at 231.14 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13672,7 +13672,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "#GND_ISO056")
+					(reference "#GND_ISO058")
 					(unit 1)
 				)
 			)
@@ -14106,7 +14106,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9de51137-da67-40e9-b6bd-4fd1b611c74f")
-		(property "Reference" "R50"
+		(property "Reference" "R51"
 			(at 55.88 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14214,7 +14214,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R50")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -14370,7 +14370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b10da31f-16d1-4bb8-affd-90c00deedf28")
-		(property "Reference" "R54"
+		(property "Reference" "R55"
 			(at 85.09 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14478,7 +14478,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R54")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -14495,7 +14495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b40775bc-884d-4b62-bc94-bfc84a7fcb5a")
-		(property "Reference" "C95"
+		(property "Reference" "C80"
 			(at 200.66 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14603,7 +14603,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C95")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -14622,7 +14622,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b809356a-b595-45a7-8580-98b9aa413200")
-		(property "Reference" "R53"
+		(property "Reference" "R54"
 			(at 80.01 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14730,7 +14730,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R53")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -14747,7 +14747,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9642a94-a7e3-4b5d-ade7-deeb02c52a07")
-		(property "Reference" "C103"
+		(property "Reference" "C88"
 			(at 241.3 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14855,7 +14855,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C103")
+					(reference "C88")
 					(unit 1)
 				)
 			)
@@ -14872,7 +14872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc6caef0-bf50-4691-a12b-01080b2cb511")
-		(property "Reference" "#GND_ISO055"
+		(property "Reference" "#GND_ISO057"
 			(at 223.52 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -14933,7 +14933,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "#GND_ISO055")
+					(reference "#GND_ISO057")
 					(unit 1)
 				)
 			)
@@ -14952,7 +14952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bca9b4ec-123b-4080-b013-1064b55e4da3")
-		(property "Reference" "R67"
+		(property "Reference" "R68"
 			(at 226.06 24.13 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15060,7 +15060,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R67")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -15078,7 +15078,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd135e93-b455-43c4-98cb-fbb138840edb")
-		(property "Reference" "R64"
+		(property "Reference" "R65"
 			(at 173.99 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15186,7 +15186,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R64")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -15205,7 +15205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c17473c2-c52b-456e-82fc-221d32a6f5a6")
-		(property "Reference" "R45"
+		(property "Reference" "R46"
 			(at 48.26 90.17 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15313,7 +15313,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R45")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -15458,7 +15458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7c5d2a7-797a-4faa-bdd4-e64316e107ea")
-		(property "Reference" "C97"
+		(property "Reference" "C82"
 			(at 210.566 36.576 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15566,7 +15566,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C97")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -15585,7 +15585,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca057aa9-e12b-4a11-abea-73bcd6e79d09")
-		(property "Reference" "R57"
+		(property "Reference" "R58"
 			(at 115.57 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15693,7 +15693,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R57")
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -15711,7 +15711,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca467868-c342-45f4-b7cc-770575799e86")
-		(property "Reference" "R60"
+		(property "Reference" "R61"
 			(at 138.43 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15819,7 +15819,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R60")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -15836,7 +15836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccd316d1-c028-4ef8-9824-3cd8c9241822")
-		(property "Reference" "C104"
+		(property "Reference" "C89"
 			(at 246.38 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15944,7 +15944,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "C104")
+					(reference "C89")
 					(unit 1)
 				)
 			)
@@ -16040,7 +16040,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d97a7e54-700e-4e00-a912-d0122cb5277b")
-		(property "Reference" "R69"
+		(property "Reference" "R70"
 			(at 242.57 40.005 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16148,7 +16148,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R69")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -16167,7 +16167,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea699f28-ebaa-41c5-bc9d-67035e5e16e2")
-		(property "Reference" "R61"
+		(property "Reference" "R62"
 			(at 151.13 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16275,7 +16275,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R61")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -16293,7 +16293,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec333ec4-9286-41ae-95af-fba26c43d5e7")
-		(property "Reference" "R52"
+		(property "Reference" "R53"
 			(at 67.31 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16401,7 +16401,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R52")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -16558,7 +16558,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eee22dca-8c7a-4a52-9544-8c426383839b")
-		(property "Reference" "R47"
+		(property "Reference" "R48"
 			(at 55.88 52.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16666,7 +16666,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R47")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -16683,7 +16683,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef7bf8e8-e00f-431f-9fd5-7422755dfbee")
-		(property "Reference" "R66"
+		(property "Reference" "R67"
 			(at 191.77 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16791,7 +16791,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R66")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -16810,7 +16810,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4a8883a-e4ad-4a89-b8dc-3c933ee77ffa")
-		(property "Reference" "R48"
+		(property "Reference" "R49"
 			(at 55.88 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16918,7 +16918,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R48")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -17075,7 +17075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb735085-4974-46e7-b3cd-8583579733e6")
-		(property "Reference" "R43"
+		(property "Reference" "R44"
 			(at 48.26 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17183,7 +17183,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e/368ece09-c01f-4640-8875-5d1b7a4ef503"
-					(reference "R43")
+					(reference "R44")
 					(unit 1)
 				)
 			)

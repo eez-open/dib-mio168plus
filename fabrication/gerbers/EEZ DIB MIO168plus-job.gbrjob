@@ -3,18 +3,18 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.6-10.0.6~ubuntu24.04.1"
+      "Version": "10.0.7-10.0.7~ubuntu24.04.1"
     },
-    "CreationDate": "2026-10-09T19:00:49+02:00"
+    "CreationDate": "2026-10-22T14:20:03+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "EEZ DIB MIO168plus",
       "GUID": "45455a20-4449-4422-904d-494f31363870",
-      "Revision": "r1B2"
+      "Revision": "r1B3"
     },
     "Size": {
-      "X": 191.1,
+      "X": 180.6,
       "Y": 95.1
     },
     "LayerNumber": 4,
@@ -100,11 +100,6 @@
     {
       "Path": "EEZ DIB MIO168plus-Edge_Cuts.gbr",
       "FileFunction": "Profile",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "EEZ DIB MIO168plus-v-cut.gbr",
-      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],

@@ -80,14 +80,6 @@
         [
           "hole_clearance|83520000|133740000|f62b0cc4-8a8b-44f8-a29b-ba06aa1c8be1|b970e198-22ff-4c45-a331-985427d44beb",
           ""
-        ],
-        [
-          "silk_overlap|237163200|125067864|1a63414f-3a2e-4cf2-a305-32e55547192f|7a70ee6e-83b9-4045-abf2-f04b3752c020",
-          ""
-        ],
-        [
-          "silk_overlap|247015576|112713200|aa3666f4-7671-41a7-8304-e71dddd63495|c12fd262-2b57-46c7-b8f1-0cc004d67478",
-          ""
         ]
       ],
       "meta": {
@@ -193,6 +185,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -204,6 +197,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -215,6 +209,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -664,159 +659,159 @@
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A0"
+        "pattern": "/MCU/FMC_A0"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A1"
+        "pattern": "/MCU/FMC_A1"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A2"
+        "pattern": "/MCU/FMC_A2"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A3"
+        "pattern": "/MCU/FMC_A3"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A4"
+        "pattern": "/MCU/FMC_A4"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A5"
+        "pattern": "/MCU/FMC_A5"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A6"
+        "pattern": "/MCU/FMC_A6"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A7"
+        "pattern": "/MCU/FMC_A7"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A8"
+        "pattern": "/MCU/FMC_A8"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A9"
+        "pattern": "/MCU/FMC_A9"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A10"
+        "pattern": "/MCU/FMC_A10"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A11"
+        "pattern": "/MCU/FMC_A11"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_A12"
+        "pattern": "/MCU/FMC_A12"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_BA0"
+        "pattern": "/MCU/FMC_BA0"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_BA1"
+        "pattern": "/MCU/FMC_BA1"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_NBL1"
+        "pattern": "/MCU/FMC_NBL1"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_NBL0"
+        "pattern": "/MCU/FMC_NBL0"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDNRAS"
+        "pattern": "/MCU/FMC_SDNRAS"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDNCAS"
+        "pattern": "/MCU/FMC_SDNCAS"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDNWE"
+        "pattern": "/MCU/FMC_SDNWE"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDNE0"
+        "pattern": "/MCU/FMC_SDNE0"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDCLK"
+        "pattern": "/MCU/FMC_SDCLK"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_SDCKE0"
+        "pattern": "/MCU/FMC_SDCKE0"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D15"
+        "pattern": "/MCU/FMC_D15"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D14"
+        "pattern": "/MCU/FMC_D14"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D13"
+        "pattern": "/MCU/FMC_D13"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D12"
+        "pattern": "/MCU/FMC_D12"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D11"
+        "pattern": "/MCU/FMC_D11"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D10"
+        "pattern": "/MCU/FMC_D10"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D9"
+        "pattern": "/MCU/FMC_D9"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D8"
+        "pattern": "/MCU/FMC_D8"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D7"
+        "pattern": "/MCU/FMC_D7"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D6"
+        "pattern": "/MCU/FMC_D6"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D5"
+        "pattern": "/MCU/FMC_D5"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D4"
+        "pattern": "/MCU/FMC_D4"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D3"
+        "pattern": "/MCU/FMC_D3"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D2"
+        "pattern": "/MCU/FMC_D2"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D1"
+        "pattern": "/MCU/FMC_D1"
       },
       {
         "netclass": "sdram",
-        "pattern": "/MCU, SDRAM/FMC_D0"
+        "pattern": "/MCU/FMC_D0"
       }
     ]
   },
@@ -942,7 +937,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": false,
+      "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
       "sort_field": "${ITEM_NUMBER}"
@@ -996,7 +991,7 @@
         "uuid": "8165d74e-be16-4c9d-8240-91910dc4b43e"
       }
     ],
-    "used_designators": "#+12V_ISO1-12,#+15V_ISO1-11,#+3V1-13,#+3V15,#+3V45-46,#+3V3_ISO1-19,#+5V1-3,#+5V7,#+5V_ISO1-3,#\\-12V_ISO1-12,#\\-15V_ISO1-11,#\\-5V_ISO1-3,#FLG1-19,#GND1-88,#GND_ISO1-59,#PE1-2,#PE9-10,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,C1-113,D1-23,D27,FB1-7,FM1-4,IC1-23,JP1-3,KK1-2,L1,LED1,LOGO1-5,LOGO7,Q1-11,R1-72,RN1-3,SH1,TP1-11,TR1,TVS1-4,X1-5,X19,Y1,ZD1-4",
+    "used_designators": "#+12V_ISO1-12,#+15V_ISO1-11,#+3V1-13,#+3V15,#+3V45-46,#+3V3_ISO1-19,#+5V1-3,#+5V7,#+5V_ISO1-3,#\\-12V_ISO1-12,#\\-15V_ISO1-11,#\\-5V_ISO1-3,#FLG1-19,#GND1-88,#GND_ISO1-59,#PE1-2,#PE9-10,#SUPPLY1,#SUPPLY6-9,#SUPPLY11-12,#SUPPLY79-83,C1-113,D1-23,D27,FB1-7,FM1-4,IC1-23,JP1-3,KK1-2,L1,LED1,LOGO1-7,Q1-11,R1-72,RN1-3,SH1,TP1-11,TR1,TVS1-4,X1-5,X19,Y1,ZD1-4",
     "variants": [
       {
         "name": "Ethernet PHY no xtal"
@@ -1014,11 +1009,11 @@
     ],
     [
       "49529a10-7659-44a8-9d1e-27c9586b0203",
-      "MCU, SDRAM"
+      "MCU"
     ],
     [
       "122f1af0-0d64-42de-8333-0d2e278f2951",
-      "ADIB, PWM, AFE connectors"
+      "Isolated power, PWM, Bias power"
     ],
     [
       "bf314781-ba18-468c-bf18-9e97e69917dd",
@@ -1039,7 +1034,7 @@
     "project_license": "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)",
     "project_name": "EEZ DIB MIO168+ module",
     "project_url": "https://www.envox.eu",
-    "project_version": "r1B2"
+    "project_version": "r1B3"
   },
   "tuning_profiles": {
     "meta": {

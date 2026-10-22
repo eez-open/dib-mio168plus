@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
-		(date "2026-10-08")
+		(date "2026-10-17")
 		(rev "${project_version}")
 		(company "${project_creator}")
 		(comment 1 "${project_license}")
@@ -2404,7 +2404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d12f34a4-cd82-4b09-a581-302223230eb6")
-		(property "Reference" "LOGO7"
+		(property "Reference" "LOGO6"
 			(at 68.58 186.0675 0)
 			(hide yes)
 			(show_name no)
@@ -2462,7 +2462,7 @@
 		(instances
 			(project "EEZ DIB MIO168plus"
 				(path "/8165d74e-be16-4c9d-8240-91910dc4b43e"
-					(reference "LOGO7")
+					(reference "LOGO6")
 					(unit 1)
 				)
 			)
@@ -2563,7 +2563,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "122f1af0-0d64-42de-8333-0d2e278f2951")
-		(property "Sheetname" "ADIB, PWM, AFE connectors"
+		(property "Sheetname" "Isolated power, PWM, Bias power"
 			(at 124.46 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2574,7 +2574,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ADIB_PWM.kicad_sch"
+		(property "Sheetfile" "iso_power.kicad_sch"
 			(at 124.46 29.7946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2701,7 +2701,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "49529a10-7659-44a8-9d1e-27c9586b0203")
-		(property "Sheetname" "MCU, SDRAM"
+		(property "Sheetname" "MCU"
 			(at 76.2 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
